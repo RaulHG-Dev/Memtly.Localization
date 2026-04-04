@@ -39,5 +39,8 @@ publish:
     - dotnet nuget push $NUGET_OUTPUT/*.nupkg
         --source "$CI_SERVER_URL/api/v4/projects/$CI_PROJECT_ID/packages/nuget/index.json"
         --api-key $CI_JOB_TOKEN
+    - dotnet nuget push $NUGET_OUTPUT/*.nupkg
+        --source "https://api.nuget.org/v3/index.json"
+        --api-key $NUGET_API_KEY
   rules:
     - if: $CI_COMMIT_TAG
