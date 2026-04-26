@@ -1822,16 +1822,58 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>ट्रैकर</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Help" xml:space="preserve">
-    <value>Umami सर्वर पता</value>
+  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
+    <value>क्या Umami ट्रैक प्रदर्शन</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Label" xml:space="preserve">
+  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
+    <value>प्रदर्शन ट्रैकिंग</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>कौन-सा तत्व रिकॉर्डिंग से छिपा होना चाहिए</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>ब्लॉक चयनकर्ता</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
+    <value>क्या Umami ट्रैक उपयोगकर्ता फिर से खेलना चाहिए</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
+    <value>रिकॉर्डर</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>कितना संवेदनशील डेटा छिपा होना चाहिए</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>मास्क स्तर</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>एक रिकॉर्ड सत्र की अधिकतम लंबाई क्या है</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>अधिकतम अवधि (न्यूनतम)</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
+    <value>अक्सर नमूने कैसे लिया जाना चाहिए</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
+    <value>नमूना दर (%)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
+    <value>Umami समापन बिंदु पता</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>समापन बिंदु</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Help" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
+    <value>स्क्रिप्ट नाम</value>
+  </data>
+  <data name="Settings_Trackers_Umami_ScriptName_Label" xml:space="preserve">
+    <value>Umami स्क्रिप्ट का नाम</value>
+  </data>
+  <data name="Settings_Trackers_Umami_WebsiteId_Help" xml:space="preserve">
     <value>भारत वेबसाइट आईडी</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_WebsiteId_Label" xml:space="preserve">
     <value>वेबसाइट आईडी</value>
   </data>
   <data name="Severity" xml:space="preserve">

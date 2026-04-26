@@ -1822,16 +1822,58 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Rastreadores</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Help" xml:space="preserve">
-    <value>O endereço do servidor Umami</value>
+  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
+    <value>Deve Umami acompanhar o desempenho</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Label" xml:space="preserve">
+  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
+    <value>Performance Tracking</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>Que elementos devem ser escondidos da gravação</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>Block Selector</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
+    <value>Se Umami rastrear o usuário replays</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
+    <value>Gravador</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>Quantos dados confidenciais devem ser escondidos</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>Nível da máscara</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>Qual é a duração máxima de uma sessão gravada</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>Max Duration (Minas)</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
+    <value>Quantas vezes as amostras devem ser colhidas</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
+    <value>Taxa de Amostra (%)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
+    <value>O endereço final de Umami</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>Ponto final</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Help" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
+    <value>Nome do script</value>
+  </data>
+  <data name="Settings_Trackers_Umami_ScriptName_Label" xml:space="preserve">
+    <value>O nome do script Umami</value>
+  </data>
+  <data name="Settings_Trackers_Umami_WebsiteId_Help" xml:space="preserve">
     <value>O site Umami ID</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_WebsiteId_Label" xml:space="preserve">
     <value>ID do site</value>
   </data>
   <data name="Severity" xml:space="preserve">

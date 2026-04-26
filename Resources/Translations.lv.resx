@@ -1822,16 +1822,58 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Trakeri</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Help" xml:space="preserve">
-    <value>Umami servera adrese</value>
+  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
+    <value>Ja Umami trases veiktspēja</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Label" xml:space="preserve">
+  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
+    <value>Veiktspējas izsekošana</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>Kuri elementi jāslēpj no ieraksta</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>Bloka selektors</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
+    <value>Vai Umami celiņa lietotājam atkārtot</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
+    <value>Ierakstītājs</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>Cik daudz sensitīvu datu ir jāslēpj</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>Maskas līmenis</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>Cik ilga ir ierakstītā sesija</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>Maksimālais ilgums (min.)</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
+    <value>Cik bieži jāņem paraugi</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
+    <value>Paraugu ņemšanas biežums (%)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
+    <value>Umami mērķa kritērija adrese</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>Mērķa kritērijs</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Help" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
+    <value>Skripta nosaukums</value>
+  </data>
+  <data name="Settings_Trackers_Umami_ScriptName_Label" xml:space="preserve">
+    <value>Umami skripta nosaukums</value>
+  </data>
+  <data name="Settings_Trackers_Umami_WebsiteId_Help" xml:space="preserve">
     <value>Umami tīmekļa vietne Id</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_WebsiteId_Label" xml:space="preserve">
     <value>Tīmekļa vietnes ID</value>
   </data>
   <data name="Severity" xml:space="preserve">

@@ -1822,16 +1822,58 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>Truyền:</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Help" xml:space="preserve">
-    <value>Địa chỉ máy chủ Umami</value>
+  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
+    <value>Nên theo dõi hiệu suất</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Label" xml:space="preserve">
+  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
+    <value>Theo dõi hiệu suất</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>Mà yếu tố nên được giấu khỏi ghi âm</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>Bộ chọn khối</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
+    <value>Nên Urami theo dõi người dùng quay lại</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
+    <value>Bộ thu âm</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>Bao nhiêu dữ liệu nhạy cảm nên được giấu đi</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>Mức mặt nạ</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>Chiều dài tối đa của một phiên chạy được ghi âm</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>Kéo dài tối đa (Mins)</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
+    <value>Có thường xuyên lấy mẫu không</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
+    <value>Tốc độ mẫu (%)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
+    <value>Địa chỉ cuối Umami</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>Điểm kết thúc</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Help" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
+    <value>Văn lệnh</value>
+  </data>
+  <data name="Settings_Trackers_Umami_ScriptName_Label" xml:space="preserve">
+    <value>Tên kịch bản Umami</value>
+  </data>
+  <data name="Settings_Trackers_Umami_WebsiteId_Help" xml:space="preserve">
     <value>Trang web Id Umam</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_WebsiteId_Label" xml:space="preserve">
     <value>Name</value>
   </data>
   <data name="Severity" xml:space="preserve">

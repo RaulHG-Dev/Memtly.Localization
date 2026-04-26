@@ -1822,16 +1822,58 @@
   <data name="Settings_Trackers" xml:space="preserve">
     <value>ট্র্যাকার</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Help" xml:space="preserve">
-    <value>নতুন ঠিকানার সার্ভার</value>
+  <data name="Settings_Trackers_PerformanceTracking_Help" xml:space="preserve">
+    <value>উমামি ট্র্যাক পরিবেশন করা উচিত</value>
   </data>
-  <data name="Settings_Trackers_UmamiEndpoint_Label" xml:space="preserve">
+  <data name="Settings_Trackers_PerformanceTracking_Label" xml:space="preserve">
+    <value>Through অনুসরণকারী</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Help" xml:space="preserve">
+    <value>রেকর্ডিং থেকে কোন অংশ আড়াল করা হবে</value>
+  </data>
+  <data name="Settings_Trackers_Replay_BlockSelector_Label" xml:space="preserve">
+    <value>নির্বাচক</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Help" xml:space="preserve">
+    <value>উমামিকে ব্যবহারকারী পুনরায় চালু করতে হবে</value>
+  </data>
+  <data name="Settings_Trackers_Replay_Label" xml:space="preserve">
+    <value>রেকর্ডার</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Help" xml:space="preserve">
+    <value>তথ্যকে সংবেদনশীল হিসাবে প্রদর্শন করা হবে কি না</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaskLevel_Label" xml:space="preserve">
+    <value>ছাঁচের স্তর</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Help" xml:space="preserve">
+    <value>একটি সংরক্ষিত সেশানের সর্বাধিক দৈর্ঘ্য</value>
+  </data>
+  <data name="Settings_Trackers_Replay_MaxDuration_Label" xml:space="preserve">
+    <value>সর্বোচ্চ দৈর্ঘ্য (মিলিসেকেন্ডে)</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Help" xml:space="preserve">
+    <value>কত বার নমুনা দেখানো হবে</value>
+  </data>
+  <data name="Settings_Trackers_Replay_SampleRate_Label" xml:space="preserve">
+    <value>নমূণার হার (%d)</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Help" xml:space="preserve">
+    <value>উমামি সমাপ্তি</value>
+  </data>
+  <data name="Settings_Trackers_Umami_Endpoint_Label" xml:space="preserve">
     <value>%s পয়েন্ট</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Help" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_ScriptName_Help" xml:space="preserve">
+    <value>স্ক্রিপ্টের নাম</value>
+  </data>
+  <data name="Settings_Trackers_Umami_ScriptName_Label" xml:space="preserve">
+    <value>উমামি স্ক্রিপ্টের নাম</value>
+  </data>
+  <data name="Settings_Trackers_Umami_WebsiteId_Help" xml:space="preserve">
     <value>উমামি ওয়েবসাইট</value>
   </data>
-  <data name="Settings_Trackers_UmamiWebsiteId_Label" xml:space="preserve">
+  <data name="Settings_Trackers_Umami_WebsiteId_Label" xml:space="preserve">
     <value>ওয়েবসাইট আই. ডি</value>
   </data>
   <data name="Severity" xml:space="preserve">
