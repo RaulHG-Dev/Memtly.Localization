@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Errorea</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Errorearen berri ematea</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Erroreak</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Baimendu erabiltzaileek hizkuntza aldatzea</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Logging</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Gaituta dagoenean, errore-txostenak automatikoki bidaltzen dira akatsak detektatzen eta konpontzen laguntzeko. Ezarpen honen aldaketak edukiontzia berrabiaraztean bakarrik aplikatzen dira</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Lagundu gune hau hobetzen</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Ntfy alertak bidali behar dira</value>

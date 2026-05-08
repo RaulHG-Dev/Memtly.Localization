@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Fejl</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Fejl ved rapportering</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Fejl</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Tillad brugere at ændre sproget</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Logning</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Når det er aktiveret, sendes fejlrapporter automatisk for at hjælpe med at opdage og rette fejl. Ændringer af denne indstilling gælder kun for genstart af beholderen</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Hjælp med at forbedre dette websted</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Skal Ntfy-indberetninger sendes</value>

@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>त्रुटि</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>त्रुटि रिपोर्टिंग</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>त्रुटियाँ</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>उपयोगकर्ताओं को भाषा बदलने की अनुमति दें</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>लॉग इन</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>जब सक्षम हो जाता है, तो त्रुटि रिपोर्ट स्वचालित रूप से बग का पता लगाने और ठीक करने में मदद करने के लिए भेजी जाती है। इस सेटिंग में बदलाव केवल कंटेनर पुनरारंभ पर लागू होते हैं</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>इस साइट को बेहतर बनाने में मदद करें</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>क्या Ntfy अलर्ट भेजा जाना चाहिए</value>

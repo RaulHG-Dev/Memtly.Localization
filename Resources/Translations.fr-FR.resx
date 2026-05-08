@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Erreur</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Déclaration d'erreurs</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Erreurs</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Permettre aux utilisateurs de changer la langue</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Exploitation forestière</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Lorsque activé, les rapports d'erreur sont automatiquement envoyés afin d'aider à détecter et corriger les bogues. Des modifications à ce réglage s'appliquent uniquement au redémarrage du conteneur</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Aide Améliorer ce site</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Si des alertes Ntfy sont envoyées</value>

@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Lỗi</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Gặp lỗi khi báo cáo</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Lỗi</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Cho phép người dùng thay đổi ngôn ngữ</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Ghi lưu</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Khi bật, báo cáo lỗi sẽ được gửi tự động để giúp phát hiện và sửa lỗi. Thay đổi thiết lập này chỉ áp dụng khi khởi chạy lại container</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Trợ giúp cải thiện nơi Mạng này</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Cảnh báo Ntaf sẽ được gửi</value>

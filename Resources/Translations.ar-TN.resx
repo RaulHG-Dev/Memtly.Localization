@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>الرعب</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>الإبلاغ عن الأخطاء</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>الأخطاء</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>السماح للمستعملين بتغيير اللغة</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>التعبئة</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>وعند التمكين، تُرسل تقارير الأخطاء تلقائياً للمساعدة في كشف الحشرات وإصلاحها. التغييرات في هذا الموقع لا تنطبق إلا على الحاويات</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>تحسين هذا الموقع</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>هل ينبغي إرسال إنذارات نتيفي</value>

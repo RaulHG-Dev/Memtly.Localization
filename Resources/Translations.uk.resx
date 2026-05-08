@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Помилка</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Повідомлення про помилку</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Помилки</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Дозволяє користувачам змінити мову</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Пробити</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>При включенні повідомлення про помилки автоматично надсилаються, щоб допомогти виявити і виправити помилки. Зміни в даній установці тільки застосовуються на контейнерному перезавантаженні</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Поліпшити сайт</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Чи буде відправлено повідомлення Ntfy</value>

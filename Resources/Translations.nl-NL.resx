@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Fout</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Foutmelding</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Fouten</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Gebruikers toestaan de taal te wijzigen</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Loggen</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Indien ingeschakeld worden foutmeldingen automatisch verzonden om fouten op te sporen en op te lossen. Wijzigingen in deze instelling zijn alleen van toepassing bij herstart van container</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Help deze site verbeteren</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Moeten Ntfy waarschuwingen worden verzonden</value>

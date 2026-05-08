@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>계정 정보</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>오류 보고</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>계정 정보</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>언어 변경 가능</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>활성화되면 오류 보고서는 자동으로 버그를 감지하고 수정하는 데 도움이됩니다. 이 설정에 변경은 컨테이너 재시작에만 적용됩니다</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>이 사이트를 개선</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Ntfy 경고가 전송되어야 합니다</value>

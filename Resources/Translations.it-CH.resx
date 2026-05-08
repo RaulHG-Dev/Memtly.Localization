@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Errore</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Rapporti di errore</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Errori</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Permettere agli utenti di cambiare la lingua</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Registrazione</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Quando abilitato, i rapporti di errore vengono inviati automaticamente al fine di aiutare a rilevare e correggere i bug. Le modifiche a questa impostazione si applicano solo sul riavvio del contenitore</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Aiuta a migliorare questo sito</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Dovrebbe essere inviata Ntfy avvisi</value>

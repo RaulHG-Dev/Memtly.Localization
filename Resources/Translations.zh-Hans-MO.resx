@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>错误</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>报告错误</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>错误</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>允许用户更改语言</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>日志</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>启用时,错误报告会自动发送,以帮助检测并修复错误. 仅在容器重新启动时更改此设置</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>帮助改进此网站</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>是否发送 Ntfy 提醒</value>

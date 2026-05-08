@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Virhe</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Virheraportointi</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Virheet</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Salli käyttäjien muuttaa kieltä</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Kirjaaminen</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Kun käytössä, virheraportit lähetetään automaattisesti, jotta voidaan havaita ja korjata virheitä. Muutokset tähän asetukseen koskevat vain säiliön uudelleenkäynnistystä</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Auta parantamaan tätä sivustoa</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Jos Ntfy-kuulutukset lähetetään</value>

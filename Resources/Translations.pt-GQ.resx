@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Erro</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Relatório de Erro</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Erros</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Permitir que os usuários alterem o idioma</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Registo</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Quando habilitado, os relatórios de erro são enviados automaticamente para ajudar a detectar e corrigir erros. Alterações nesta configuração só se aplicam ao reiniciar o recipiente</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Ajuda Melhorar este site</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Caso Ntfy alertas sejam enviados</value>

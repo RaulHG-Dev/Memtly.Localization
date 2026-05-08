@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Eraro</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Eraro</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Eraroj</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Lasu uzantojn ŝanĝi la lingvon</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Pruntego</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Se rajtigite, erarraportoj estas aŭtomate senditaj por helpi detekti kaj fiksi cimojn. Ŝanĝoj al tiu scenaro nur validas sur kontener rekomenco</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Helpu plibonigi tiun retejon</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Do, se vi estus senditaj</value>

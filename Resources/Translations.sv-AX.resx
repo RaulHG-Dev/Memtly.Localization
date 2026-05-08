@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Fel</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Felrapportering</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Fel</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Låt användare ändra språket</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Logging</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>När det är aktiverat skickas felrapporter automatiskt för att hjälpa till att upptäcka och åtgärda buggar. Ändringar i denna inställning gäller endast för omstart av behållare</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Hjälp att förbättra denna webbplats</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Ska Ntfy-varningar skickas</value>

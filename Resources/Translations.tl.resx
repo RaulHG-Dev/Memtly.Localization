@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Pagkakamali</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Error sa Pag - uulat</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Mga Pagkakamali</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Hayaang baguhin ng mga gumagamit ang wika</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Pagpupuslit</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Kapag nagawa, ang maling mga ulat ay awtomatikong ipinadadala upang tulungang makita at ayusin ang mga insekto. Ang mga pagbabago sa tagpong ito ay kapit lamang sa lalagyan</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Tulong Upang Mapasulong ang lugar na ito</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Dapat ipadala ang mga hudyat ng Ntfy</value>

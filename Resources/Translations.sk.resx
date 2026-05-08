@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Chyba</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Hlásenie chýb</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Chyby</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Povoliť používateľom zmeniť jazyk</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Zaznamenávanie</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Ak je povolená, hlásenia o chybách sa automaticky posielajú, aby pomohli zistiť a opraviť chyby. Zmeny v tomto nastavení platia iba pri reštarte kontajnera</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Pomoc zlepšiť túto stránku</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Ak sa majú zaslať upozornenia Ntfy</value>

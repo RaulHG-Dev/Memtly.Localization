@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Napaka</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Poročanje o napaki</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Napake</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Dovoli uporabnikom, da spremenijo jezik</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Beleženje</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Kadar je omogočeno, se poročila o napakah samodejno pošljejo, da se pomaga odkriti in popraviti hrošče. Spremembe te nastavitve veljajo samo ob ponovnem zagonu posode</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Pomoč Izboljšati to stran</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Ali je treba poslati razpise ukrepov Ntfy</value>

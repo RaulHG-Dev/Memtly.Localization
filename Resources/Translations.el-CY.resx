@@ -535,6 +535,9 @@
   <data name="Error" xml:space="preserve">
     <value>Σφάλμα</value>
   </data>
+  <data name="ErrorReporting" xml:space="preserve">
+    <value>Αναφορά σφαλμάτων</value>
+  </data>
   <data name="Errors" xml:space="preserve">
     <value>Σφάλματα</value>
   </data>
@@ -1704,6 +1707,15 @@
   </data>
   <data name="Settings_Languages_Enabled_Help" xml:space="preserve">
     <value>Επίτρεψε στους χρήστες να αλλάξουν τη γλώσσα</value>
+  </data>
+  <data name="Settings_Logging" xml:space="preserve">
+    <value>Καταγραφή</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Help" xml:space="preserve">
+    <value>Όταν ενεργοποιηθεί, οι αναφορές σφαλμάτων αποστέλλονται αυτόματα για να βοηθήσουν στην ανίχνευση και τη διόρθωση σφαλμάτων. Αλλαγές σε αυτή τη ρύθμιση ισχύουν μόνο κατά την επανεκκίνηση του δοχείου</value>
+  </data>
+  <data name="Settings_Logging_Graylog_Enabled_Label" xml:space="preserve">
+    <value>Βοήθεια Βελτίωση αυτής της ιστοσελίδας</value>
   </data>
   <data name="Settings_Ntfy_Enabled_Help" xml:space="preserve">
     <value>Σε περίπτωση αποστολής καταχωρίσεων Ntfy</value>
