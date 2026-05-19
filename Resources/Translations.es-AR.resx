@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>Se produjo un error cargando la página principal</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>Hover</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Verificación de identidad</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentación</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>El color del fondo primario 1 artículo sobre el aparador</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Primaria 1 Hover</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>El color del fondo principal de 3 ítems sobre el aparador</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>Primaria 3 Hover Antecedentes</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>El color del fondo de 2 ítems primario sobre el aparador</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Primaria 2 Hover Antecedentes</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>El color del fondo primario 1 artículo</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Search Term</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>El color del fondo secundario de 1 artículo sobre el aparador</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Secundaria 1 Hover</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>El color del fondo secundario de 2 ítems</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>2 Hover Background</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>El color del fondo secundario 1 artículo</value>

@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>装入主页出错</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>缓冲</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>身份检查</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>列报</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>悬浮上主 1 项背景的颜色</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>小学 1 背景</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>悬浮上主 3 项背景的颜色</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>小学三年级</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>悬浮上主 2 项背景的颜色</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>小学 二年级</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>主 1 项背景的颜色</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>搜索期限</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>悬浮的二级 1 项背景颜色</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>中学1</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>悬浮的二次 2 项背景的颜色</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>中学2</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>二级 1 项背景的颜色</value>

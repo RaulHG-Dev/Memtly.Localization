@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>Produciuse un erro cargando a páxina de inicio</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>Hover</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Verificación de identidade</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentación</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>A cor do fondo 1 elemento primario en hover</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Antecedentes 1 Hover</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>A cor do fondo de 3 elementos primarios en hover</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>3 Antecedentes principais</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>A cor do fondo de 2 elementos primarios en hover</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>2 Antecedentes principais</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>A cor do fondo 1 elemento primario</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Termo de busca</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>A cor do fondo de 1 elemento secundario en hover</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>1 Antecedentes secundarios</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>A cor do segundo elemento de fondo en hover</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>2 Antecedentes secundarios</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>A cor do fondo de 1 elemento secundario</value>

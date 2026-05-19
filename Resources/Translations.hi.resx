@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>एक त्रुटि होमपेज लोड हो रही है</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>होवर</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>पहचान जांच</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>प्रस्तुति</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>होवर पर प्राथमिक 1 आइटम पृष्ठभूमि का रंग</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>प्राथमिक 1 होवर पृष्ठभूमि</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>होवर पर प्राथमिक 3 आइटम पृष्ठभूमि का रंग</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>प्राथमिक 3 होवर पृष्ठभूमि</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>होवर पर प्राथमिक 2 आइटम पृष्ठभूमि का रंग</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>प्राइमरी 2 होवर पृष्ठभूमि</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>प्राथमिक 1 आइटम पृष्ठभूमि का रंग</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>खोज अवधि</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>होवर पर माध्यमिक 1 आइटम पृष्ठभूमि का रंग</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>माध्यमिक 1 होवर पृष्ठभूमि</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>होवर पर माध्यमिक 2 आइटम पृष्ठभूमि का रंग</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>माध्यमिक 2 होवर पृष्ठभूमि</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>माध्यमिक 1 आइटम पृष्ठभूमि का रंग</value>

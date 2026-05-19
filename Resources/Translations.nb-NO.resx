@@ -1123,24 +1123,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentasjon</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Fargen på den primære 1 element bakgrunn på sveve</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Primær 1 Hover bakgrunn</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>Fargen på den primære 3 element bakgrunn på sveve</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>Primær 3 Hover bakgrunn</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Fargen på den primære 2 element bakgrunn på sveve</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Primær 2 Hover Bakgrunn</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>Fargen på den primære 1 element bakgrunn</value>
   </data>
@@ -1341,18 +1323,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Søkeord</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Fargen på den sekundære 1 element bakgrunn på sveve</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Sekundær 1 Hover Bakgrunn</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Fargen på den sekundære 2 elementbakgrunnen på sveve</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Sekundær 2 Hover Bakgrunn</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>Fargen på den sekundære 1 element bakgrunn</value>

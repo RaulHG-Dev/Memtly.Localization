@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>Tapahtui virhe ladattaessa kotisivua</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>Leiju</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Henkilöllisyyden tarkistus</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>Esittely</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Ensisijaisen 1 kohteen taustan väri leijailussa</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Ensisijainen 1 Leikkurin tausta</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>Leijuvan 3 ensisijaisen esineen taustan väri</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>Ensisijainen 3 Leijona tausta</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Primaarin 2 kohteen taustan väri leijailussa</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Ensisijainen 2 Leijuu tausta</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>Ensisijaisen 1 kohteen taustan väri</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Hakusana</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Leijunnan toisen 1 kohteen taustan väri</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Toissijainen 1 Leirin tausta</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Kakkosluokan taustan väri lennossa</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Sekundaarinen 2 Leijona tausta</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>Sekundäärisen 1 kohteen taustan väri</value>

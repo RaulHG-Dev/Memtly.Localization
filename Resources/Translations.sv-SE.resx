@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>Ett fel inträffade ladda hemsidan</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>Hover</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Identity Check</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentation</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Färgen på primär 1 objekt bakgrund på hover</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Primär 1 Hover Bakgrund</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>Färgen på den primära 3 objekt bakgrunden på hover</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>Primär 3 Hover Bakgrund</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Färgen på den primära 2 objekt bakgrunden på hover</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Primär 2 Hover Bakgrund</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>Färgen på primär 1 objekt bakgrund</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Sök Term</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Färgen på sekundär 1 objekt bakgrund på hover</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Sekundär 1 Hover Bakgrund</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Färgen på den sekundära 2 objekt bakgrunden på hover</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Sekundär 2 Hover Bakgrund</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>Färgen på sekundär 1 objekt bakgrund</value>

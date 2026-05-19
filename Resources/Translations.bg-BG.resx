@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>Грешка при зареждане на началната страница</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>Ховър</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Проверка на самоличността</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>Представяне</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Цветът на фона на първичния елемент 1 върху ховър</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Първичен фон на ховър 1</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>Цветът на фоновия фон на основната точка 3 върху ховър</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>Първичен фон на ховър 3</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Цветът на фоновия фон на основната точка 2 върху ховър</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Първичен фон 2 Hover</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>Цвят на фона на първичния елемент</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Термин за търсене</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Цвят на фона на вторичния елемент 1 върху ховър</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Вторичен фон на Hover 1</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Цветът на фона на вторичната точка 2 върху ховър</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Вторичен фон 2 Hover</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>Цвят на фоновия фон на вторичен елемент 1</value>

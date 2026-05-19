@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>Негизги баракчаны жүктөө катасы болгон</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>Ховер</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Коноктордун аты-жөнү</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>Презентация презентациясы</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Биринчи элементтин фонунун түсү</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Негизги 1 Hover фону</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>Негизги 3 буюмдун фонунун түсү</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>Негизги 3 - бөлүмдөгү окуялар</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Негизги 2 буюмдун фонунун түсү</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Негизги 2 Hover фону</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>Биринчи элементтин түсү</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Издөө мөөнөтү</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Биринчи элементтин фонунун түсү</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Экинчи Hover тарыхы</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Экинчи бөлүктүн түсү</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Экинчи Hover тарыхы</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>Экинчи бөлүктүн түсү</value>

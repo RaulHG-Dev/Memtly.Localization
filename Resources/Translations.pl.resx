@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>Wystąpił błąd podczas wczytywania strony głównej</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>Hover</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>Kontrola tożsamości</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezentacja</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Kolor pierwotnego tła 1 pozycji na haku</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Podstawowy 1 Tło Hover</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>Kolor pierwotnego tła 3 pozycji na haku</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>Podstawowe 3 Tło Hover</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Kolor pierwotnego tła 2 pozycji na haku</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Podstawowe 2 Hover Tło</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>Kolor pierwotnego tła 1 pozycji</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Termin wyszukiwania</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>Kolor tła drugorzędnego 1 pozycji na haku</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>Drugorzędowe tło 1 hover</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>Kolor drugorzędnego tła 2 pozycji na haku</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>Drugorzędowe 2 Tło Hover</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>Kolor tła wtórnego 1 pozycji</value>

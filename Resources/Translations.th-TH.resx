@@ -829,6 +829,9 @@
   <data name="Homepage_Load_Error" xml:space="preserve">
     <value>เกิดข้อผิดพลาดระหว่างทําการโหลดหน้าเว็บหลัก</value>
   </data>
+  <data name="Hover" xml:space="preserve">
+    <value>ลบทั้งเธรด</value>
+  </data>
   <data name="Identity_Check" xml:space="preserve">
     <value>ตรวจสอบการแสดงตัว</value>
   </data>
@@ -1123,24 +1126,6 @@
   <data name="Presentation" xml:space="preserve">
     <value>การนําเสนอ</value>
   </data>
-  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>สีของพื้นหลังรายการ 1 อันดับหลักเมื่อเคลื่อนเมาส์มาอยู่เหนือ</value>
-  </data>
-  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>พื้นหลังระดับ 1</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
-    <value>สีของพื้นหลังรายการหลัก 3 รายการเมื่อเคลื่อนเมาส์มาอยู่เหนือ</value>
-  </data>
-  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
-    <value>พื้นหลังหลัก 3</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>สีของรายการหลัก 2 พื้นหลังเมื่อเคลื่อนเมาส์อยู่เหนือ</value>
-  </data>
-  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>พื้นหลังหลัก 2</value>
-  </data>
   <data name="Primary_Background_One_Color_Help" xml:space="preserve">
     <value>สีของพื้นหลังรายการหลัก 1 รายการ</value>
   </data>
@@ -1341,18 +1326,6 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>จํานวนงวด:</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
-    <value>สีของพื้นหลังรายการที่สอง 1 รายการเมื่อเคลื่อนเมาส์มาอยู่เหนือ</value>
-  </data>
-  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
-    <value>พื้นหลังครั้งที่สอง 1 Huover</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
-    <value>สีพื้นหลังของรายการที่สอง 2 รายการเมื่อเคลื่อนเมาส์มาอยู่เหนือ</value>
-  </data>
-  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
-    <value>พื้นหลัง 2 วันที่สอง</value>
   </data>
   <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
     <value>สีของพื้นหลังรายการที่สอง 1 รายการ</value>
