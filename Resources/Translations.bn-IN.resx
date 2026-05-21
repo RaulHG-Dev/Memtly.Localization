@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>গ্যালারি</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>এই গ্যালারিটি একটি গোপনীয় কি সহযোগে সুরক্ষিত করা হয়েছে। অনুগ্রহ করে এর বিষয়বস্তু জানার জন্য অনুগ্রহ করে গোপন কি লিখুন।.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>গ্যালারি ফাঁকা রাখা যাবে না</value>
   </data>

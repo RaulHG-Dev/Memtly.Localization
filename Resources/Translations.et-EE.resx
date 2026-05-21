@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Galerii sisselogimine</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>See galerii on kaitstud salajase võtmega. Palun sisesta salajane võti, et näha selle sisu.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galeriis Id ei saa olla tühi</value>
   </data>

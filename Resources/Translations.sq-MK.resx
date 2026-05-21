@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Login i Galerisë</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Kjo galeri është e mbrojtur me një çelës sekret. Ju lutem shkruani kyçin sekret për të shfaqur përmbajtjen e tij.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Koleksioni Id nuk mund të jetë bosh</value>
   </data>

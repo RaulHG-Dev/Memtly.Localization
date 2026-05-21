@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Gallerian kirjautuminen</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Tämä galleria on suojattu salaisella avaimella. Syötä salainen avain nähdäksesi sen sisällön.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galleria Id ei voi olla tyhjä</value>
   </data>

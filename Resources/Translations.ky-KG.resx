@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Галереялык логин</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Бул галерея жашыруун ачкыч менен корголгон. Анын мазмунун көрүү үчүн жашыруун ачкычты киргизиңиз.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Галерея Id бош болушу мүмкүн эмес</value>
   </data>

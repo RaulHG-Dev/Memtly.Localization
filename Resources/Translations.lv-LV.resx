@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Galerijas pieteikšanās</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Šī galerija ir aizsargāta ar slepenu atslēgu. Lūdzu ievadiet slepeno atslēgu, lai apskatītu tās saturu.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerija Id nevar būt tukšs</value>
   </data>

@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Prijava v galeriji</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Ta galerija je zaščitena s skrivnim ključem. Prosim vnesite skrivni ključ za ogled vsebine.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerija Id ne more biti prazna</value>
   </data>

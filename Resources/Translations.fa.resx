@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>گالری Login</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>این گالری با یک کلید مخفی محافظت می شود. لطفا کلید مخفی را وارد کنید تا محتوای آن را ببینید.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>گالری گالری گالری نمی توانم خالی باشم</value>
   </data>

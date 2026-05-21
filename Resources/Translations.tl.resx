@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Login ng Gallery</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Ang galeryang ito ay protektado ng isang lihim na susi. Pakisuyong pumasok sa sekretong susi upang tingnan ang nilalaman nito.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Gallery Hindi maaaring walang laman ang Id</value>
   </data>

@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Login na Galeria</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Esta galeria está protegida com uma chave secreta. Digite a chave secreta para visualizar seu conteúdo.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galeria Id não pode ser vazio</value>
   </data>

@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>גלריה כניסה</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>הגלריה הזו מוגנת עם מפתח סודי. אנא הזן את המפתח הסודי כדי להציג את התוכן שלו.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>גלריה לא יכול להיות ריק</value>
   </data>

@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>相簿登入</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>這個畫廊被密钥所保護. 請輸入檢視其內容的秘密金鑰 .</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>图片库 无法为空</value>
   </data>

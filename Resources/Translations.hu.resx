@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Galéria bejelentkezés</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>A galériát egy titkos kulcs védi. Kérjük, írja be a titkos kulcsot a tartalom megtekintéséhez.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galéria Nem lehet üres</value>
   </data>

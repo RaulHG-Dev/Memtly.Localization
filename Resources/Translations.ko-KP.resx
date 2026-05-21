@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>갤러리 로그인</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>이 갤러리는 비밀 키로 보호됩니다. 콘텐츠를 보려면 비밀 키를 입력하십시오.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>회사연혁 나는 비어있을 수 없다</value>
   </data>

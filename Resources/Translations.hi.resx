@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>गैलरी लॉग इन</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>यह गैलरी एक गुप्त कुंजी के साथ संरक्षित है। कृपया अपनी सामग्री देखने के लिए गुप्त कुंजी दर्ज करें।.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>गैलरी आईडी खाली नहीं हो सकता</value>
   </data>

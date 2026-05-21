@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>图片库登录</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>这个画廊用密钥保护. 请输入查看其内容的密钥 .</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>图片库 无法为空</value>
   </data>

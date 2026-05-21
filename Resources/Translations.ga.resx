@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Gailearaí Logáil isteach</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Tá an gailearaí a chosaint le eochair rúnda. Cuir isteach an eochair rúnda chun féachaint ar a ábhar.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Amharc ar gach eolas Ní féidir liom a bheith folamh</value>
   </data>

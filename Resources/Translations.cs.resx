@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Přihlášení galerie</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Tato galerie je chráněna tajným klíčem. Zadejte prosím tajný klíč pro zobrazení jeho obsahu.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerie Id nemůže být prázdný</value>
   </data>
