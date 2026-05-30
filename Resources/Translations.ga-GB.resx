@@ -1291,6 +1291,12 @@
   <data name="Rename" xml:space="preserve">
     <value>Amharc ar gach eolas</value>
   </data>
+  <data name="Request_Background_Worker_Failed" xml:space="preserve">
+    <value>Failed chun tús a chur le tasc cúlra</value>
+  </data>
+  <data name="Request_Background_Worker_Success" xml:space="preserve">
+    <value>Cuireadh tús leis an tasc cúlra go rathúil</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Athshocraigh</value>
   </data>
@@ -1314,6 +1320,9 @@
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Léirmheasanna</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Rith</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>Sábháil Q</value>

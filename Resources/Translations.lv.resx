@@ -1291,6 +1291,12 @@
   <data name="Rename" xml:space="preserve">
     <value>Pārdēvēt</value>
   </data>
+  <data name="Request_Background_Worker_Failed" xml:space="preserve">
+    <value>Neizdevās palaist fona darbu</value>
+  </data>
+  <data name="Request_Background_Worker_Success" xml:space="preserve">
+    <value>Fona uzdevums veiksmīgi uzsākts</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Atstatīt</value>
   </data>
@@ -1314,6 +1320,9 @@
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Pārskatīšana</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Darbināt</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>Saglabāt QR</value>

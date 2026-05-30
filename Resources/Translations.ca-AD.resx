@@ -1291,6 +1291,12 @@
   <data name="Rename" xml:space="preserve">
     <value>Reanomena</value>
   </data>
+  <data name="Request_Background_Worker_Failed" xml:space="preserve">
+    <value>Ha fallat en iniciar la tasca de fons</value>
+  </data>
+  <data name="Request_Background_Worker_Success" xml:space="preserve">
+    <value>La tasca de fons s' ha iniciat correctament</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Inicialitza</value>
   </data>
@@ -1314,6 +1320,9 @@
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Revisió</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Executa</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>Desa QR</value>

@@ -1291,6 +1291,12 @@
   <data name="Rename" xml:space="preserve">
     <value>नाम बदलें</value>
   </data>
+  <data name="Request_Background_Worker_Failed" xml:space="preserve">
+    <value>पृष्ठभूमि कार्य शुरू करने में विफल</value>
+  </data>
+  <data name="Request_Background_Worker_Success" xml:space="preserve">
+    <value>पृष्ठभूमि कार्य सफलतापूर्वक शुरू हुआ</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>रीसेट करें</value>
   </data>
@@ -1314,6 +1320,9 @@
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>समीक्षा</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>रन</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>QR सहेजें</value>

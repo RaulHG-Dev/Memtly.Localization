@@ -1291,6 +1291,12 @@
   <data name="Rename" xml:space="preserve">
     <value>نام بدلیں</value>
   </data>
+  <data name="Request_Background_Worker_Failed" xml:space="preserve">
+    <value>پیشہ ورانہ کام شروع کرنے میں ناکامی</value>
+  </data>
+  <data name="Request_Background_Worker_Success" xml:space="preserve">
+    <value>کام کامیابی سے شروع ہوا</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>مصر</value>
   </data>
@@ -1314,6 +1320,9 @@
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>اعادہ</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>بھاگو</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>محفوظ کریں</value>

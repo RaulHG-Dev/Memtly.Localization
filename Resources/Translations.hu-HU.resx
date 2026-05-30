@@ -1291,6 +1291,12 @@
   <data name="Rename" xml:space="preserve">
     <value>Átnevezés</value>
   </data>
+  <data name="Request_Background_Worker_Failed" xml:space="preserve">
+    <value>Nem sikerült elindítani a háttérfeladatot</value>
+  </data>
+  <data name="Request_Background_Worker_Success" xml:space="preserve">
+    <value>A háttérfeladat sikeresen megkezdődött</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Újra</value>
   </data>
@@ -1314,6 +1320,9 @@
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Felülvizsgálatok</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Fuss</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>QR mentése</value>

@@ -1291,6 +1291,12 @@
   <data name="Rename" xml:space="preserve">
     <value>Redenumește</value>
   </data>
+  <data name="Request_Background_Worker_Failed" xml:space="preserve">
+    <value>Nu s-a putut porni sarcina de fundal</value>
+  </data>
+  <data name="Request_Background_Worker_Success" xml:space="preserve">
+    <value>Sarcina de fundal a început cu succes</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Reinițializează</value>
   </data>
@@ -1314,6 +1320,9 @@
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Revizuiri</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Fugi</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>Salvează QR</value>

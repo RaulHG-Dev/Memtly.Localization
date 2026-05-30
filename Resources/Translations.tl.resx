@@ -1291,6 +1291,12 @@
   <data name="Rename" xml:space="preserve">
     <value>Muling Pangalan</value>
   </data>
+  <data name="Request_Background_Worker_Failed" xml:space="preserve">
+    <value>Sawi sa pagsisimula ng trabaho sa likuran</value>
+  </data>
+  <data name="Request_Background_Worker_Success" xml:space="preserve">
+    <value>Matagumpay na sinimulan ang trabaho sa likuran</value>
+  </data>
   <data name="Reset" xml:space="preserve">
     <value>Mulingset</value>
   </data>
@@ -1314,6 +1320,9 @@
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>Mga Repaso</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Takbo</value>
   </data>
   <data name="Save_QR" xml:space="preserve">
     <value>Iligtas ang QR</value>
