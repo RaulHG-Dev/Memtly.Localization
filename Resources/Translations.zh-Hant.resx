@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>无数据</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>沒有選擇要匯出的内容</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>没有检测到要上传的文件</value>
   </data>

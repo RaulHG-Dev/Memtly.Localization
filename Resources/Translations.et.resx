@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Andmeid pole</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>Ekspordiks ei valitud ühtegi sisu</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Üleslaadimiseks faile ei leitud</value>
   </data>

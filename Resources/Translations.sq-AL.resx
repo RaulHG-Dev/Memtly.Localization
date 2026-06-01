@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Pa të dhëna</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>Asnjë përmbajtje e zgjedhur për eksportim</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Jo për</value>
   </data>
@@ -2103,6 +2106,9 @@
   </data>
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Jeni i sigurt që dëshironi të eleminoni llogarinë</value>
+  </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Gabim i panjohur</value>
   </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Veprim i panjohur rishikimi</value>

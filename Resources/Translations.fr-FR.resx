@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Aucune donnée</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>Aucun contenu n'a été sélectionné pour l'exportation</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Aucun fichier n'a été détecté pour le téléchargement</value>
   </data>

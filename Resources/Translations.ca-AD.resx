@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Sense dades</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>No s' ha seleccionat cap contingut per exportar</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>No s' ha detectat cap fitxer per pujar</value>
   </data>

@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>데이터 없음</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>수출에 대한 내용이 선정되었습니다</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>파일이 업로드되었습니다</value>
   </data>

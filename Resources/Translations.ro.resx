@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Fără date</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>Nu a fost selectat niciun conținut pentru export</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Nu au fost detectate fișiere pentru încărcare</value>
   </data>

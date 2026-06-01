@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Žiadne údaje</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>Pre export nebol vybraný žiadny obsah</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Pri nahrávaní neboli zistené žiadne súbory</value>
   </data>

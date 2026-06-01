@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Tanpa Data</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>Tak ada isi yang dipilih untuk ekspor</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Tak ada berkas yang terdeteksi untuk diunggah</value>
   </data>

@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Tak ada Data</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>Konten tidak dipilih untuk dieksport</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Tak ada berkas yang terdeteksi untuk dimuat naik</value>
   </data>
@@ -2103,6 +2106,9 @@
   </data>
   <data name="Unfreeze_User_Message" xml:space="preserve">
     <value>Apakah Anda yakin ingin un-freeze account</value>
+  </data>
+  <data name="Unknown_Error" xml:space="preserve">
+    <value>Ralat Tidak Diketahui Tidak Diketahui</value>
   </data>
   <data name="Unknown_Review_Action" xml:space="preserve">
     <value>Tindakan review tidak diketahui</value>

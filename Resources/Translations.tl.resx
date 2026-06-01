@@ -1045,6 +1045,9 @@
   <data name="No_Data" xml:space="preserve">
     <value>Walang Data</value>
   </data>
+  <data name="No_Export_Content" xml:space="preserve">
+    <value>Walang nilalaman ang napili para iluwas</value>
+  </data>
   <data name="No_Files_For_Upload" xml:space="preserve">
     <value>Walang nakitang files para sa download</value>
   </data>
