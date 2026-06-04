@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>উপলব্ধ নথিপত্র</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>পটভূমির রং</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>পটভূমি</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>আপনার ব্রাউজার সমর্থন করে না</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>স্বনির্ধারিত রিসোর্স আপলোড করতে ব্যর্থ</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>বিপদজনক রং</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>বিপদ</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>বিপদ সংকেত</value>
   </data>
@@ -512,6 +524,12 @@
     <value>বিবরণ</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>নিষ্ক্রিয়</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>নিষ্ক্রিয় রঙ</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>নিষ্ক্রিয়</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>প্রেসেন্টেশন</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>প্রধানের পটভূমির রং</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>প্রথম প্রাথমিক রং</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>প্রধান পটভূমি</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>প্রধান ১</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>প্রধান পটভূমির রং</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>তৃতীয় প্রাথমিক রং</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>প্রাথমিক ৩ পটভূমি</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>প্রধান ৩</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>প্রধানের পটভূমির রং</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>দ্বিতীয় প্রাথমিক রং</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>প্রধান ২ পটভূমি</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>প্রধান টেক্সটের রং</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>প্রধান টেক্সট</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>প্রধান টেক্সটের রং</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>প্রধান টেক্সট</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>প্রধান টেক্সটের পটভূমির রং</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>প্রধান টেক্সট</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>প্রধান ২</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>গ্যালারির নাম সমর্থিত নয়। দয়া করে একটি ভিন্ন নাম চেষ্টা করুন</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>অনুসন্ধানের স্থান</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>দ্বিতীয় পটভূমির রং</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>প্রথম দ্বিতীয় রং</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>দ্বিতীয় পটভূমি</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>দ্বিতীয়</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>দ্বিতীয় পটভূমির রং</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>দ্বিতীয় রং</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>দ্বিতীয় পটভূমি</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>দ্বিতীয় টেক্সটের রং</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>দ্বিতীয় টেক্সট</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>দ্বিতীয় টেক্সটের রং</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>দ্বিতীয় টেক্সট</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>দ্বিতীয়</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>নির্বাচন করুন</value>

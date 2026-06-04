@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Налични галерии</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Цвят на фона</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Фон</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Вашият браузър не поддържа тази функция</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Грешка при качване на потребителски ресурс</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Цвят на опасността</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Опасност</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Зона на опасност</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Подробности</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Изключен</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Цветът на инвалидите</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Изключен</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Представяне</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Цвят на фона на първичния елемент</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Първи основен цвят</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Първичен фон 1</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Първичен 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Цвят на фона на първичния елемент</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Третият основен цвят</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Първичен фон 3</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Първичен 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Цвят на фоновия фон на първичния елемент 2</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>Вторият основен цвят</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Първичен фон 2</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Цвят на текста на първичния елемент</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Първичен текст</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Цвят на първичния текст на артикул 3</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Първичен 3 текст</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Цвят на основния текст на елемента 2</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Първичен текст 2</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Първичен 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Защитените имена на галерията не са позволени. Моля опитайте с друго име</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Термин за търсене</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Цвят на фоновия фон на вторичен елемент 1</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Първият вторичен цвят</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Вторичен фон 1</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Вторичен 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Цвят на фона на вторичната точка 2</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>Вторият вторичен цвят</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Вторичен фон 2</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Цвят на текста на вторичната точка 1</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Вторичен текст</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Цвят на вторичния текст на елемента 2</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Вторичен текст 2</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Вторично 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Избор</value>

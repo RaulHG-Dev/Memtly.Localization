@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Galeries disponibles</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>La couleur du fond</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Historique</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Votre navigateur ne supporte pas cette fonctionnalité</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Impossible de télécharger la ressource personnalisée</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Couleur de danger</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Danger</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Zone de danger</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Détails</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Handicapé</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Couleur désactivée</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Handicapé</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Présentation</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>La couleur de l'arrière-plan du premier élément</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>La première couleur primaire</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Primaire 1 Contexte</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Primaire 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>La couleur de l'arrière-plan primaire 3</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Troisième couleur primaire</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Primaire 3 Contexte</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Primaire 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>La couleur de l'arrière-plan principal 2</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>La deuxième couleur primaire</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Historique</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>La couleur du texte principal 1 article</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Premier texte</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>La couleur du texte principal 3</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Primaire 3 Texte</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>La couleur du texte primaire 2</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Primaire 2 Texte</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Primaire 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Les noms de galerie protégés ne sont pas autorisés. Veuillez essayer un autre nom</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Terme de recherche</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Couleur de l'arrière-plan d'un élément secondaire</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>La première couleur secondaire</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Secondaire 1 Contexte</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Secondaire 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Couleur du fond secondaire 2</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>La deuxième couleur secondaire</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Secondaire 2 Contexte</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>La couleur du texte d'un article secondaire</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Texte secondaire 1</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>La couleur du texte secondaire 2</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Texte secondaire 2</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Secondaire 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Sélectionner</value>

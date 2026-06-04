@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>उपलब्ध दीर्घाओं</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>पृष्ठभूमि</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>आपका ब्राउज़र इस सुविधा का समर्थन नहीं करता है</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>कस्टम संसाधन अपलोड करने में विफल</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>खतरे का रंग</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>डैनर</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Danger जोन</value>
   </data>
@@ -512,6 +524,12 @@
     <value>विवरण</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>विकलांग</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>अक्षम रंग</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>विकलांग</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>प्रस्तुति</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>प्राथमिक 1 आइटम पृष्ठभूमि का रंग</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>पहला प्राथमिक रंग</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>प्राथमिक 1 पृष्ठभूमि</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>प्राथमिक 3 आइटम पृष्ठभूमि का रंग</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>तीसरा प्राथमिक रंग</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>प्राथमिक 3 पृष्ठभूमि</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>प्राथमिक 2 आइटम पृष्ठभूमि का रंग</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>दूसरा प्राथमिक रंग</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>प्राथमिक 2 पृष्ठभूमि</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>प्राथमिक 1 आइटम पाठ का रंग</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>प्राथमिक 1 पाठ</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>प्राथमिक 3 आइटम पाठ का रंग</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>प्राथमिक 3 पाठ</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>प्राथमिक 2 आइटम पाठ का रंग</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>प्राथमिक 2 पाठ</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>संरक्षित गैलरी नामों की अनुमति नहीं है। कृपया एक अलग नाम आज़माएं</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>खोज अवधि</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>माध्यमिक 1 आइटम पृष्ठभूमि का रंग</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>पहला माध्यमिक रंग</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>माध्यमिक 1 पृष्ठभूमि</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>माध्यमिक 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>माध्यमिक 2 आइटम पृष्ठभूमि का रंग</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>दूसरा माध्यमिक रंग</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>माध्यमिक 2 पृष्ठभूमि</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>माध्यमिक 1 आइटम पाठ का रंग</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>माध्यमिक 1 पाठ</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>माध्यमिक 2 आइटम पाठ का रंग</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>माध्यमिक 2 पाठ</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>माध्यमिक 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>चयन</value>

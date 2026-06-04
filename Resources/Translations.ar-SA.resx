@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>المتاح</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>لون الخلفية</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>معلومات أساسية</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>منظفك لا يدعم هذه المميزة</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>عدم تحميل الموارد الجمركية</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>لون الخطر</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>خطر</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>منطقة الخطر</value>
   </data>
@@ -512,6 +524,12 @@
     <value>التفاصيل</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>المعوقين</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>اللون المعاق</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>المعوقين</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>عرض</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>لون البند الأول الأساسي</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>اللون الأول</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>معلومات أساسية</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>الابتدائي</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>لون البند الثالث الأساسي</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>اللون الأولي الثالث</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>معلومات أساسية</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>الابتدائي 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>لون البندين الأساسيين</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>اللون الأول الثاني</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>معلومات أساسية</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>لون النص الأول</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>النص الأولي</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>لون النص الأولي للبند الثالث</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>النص الابتدائي</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>لون البندين الأوليين</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>النص الابتدائي 2</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>الابتدائي 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>لا يسمح لأسماء المعرض المحمية. من فضلك جرب اسم مختلف</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>محطة البحث</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>لون البند الثاني</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>اللون الثانوي الأول</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>المرحلة الثانية</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>التعليم الثانوي</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>لون البند الثاني الثانوي</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>اللون الثانوي الثاني</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>المرحلة الثانية</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>لون البند الثاني</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>النص الثانوي</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>لون البند الثاني الثانوي</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>الثاني - النص</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>التعليم الثانوي ٢</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>مختارة</value>

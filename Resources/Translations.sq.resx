@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Gallerimet në dispozicion</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Ngjyra e sfondit</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Sfondi</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Shfletuesi juaj nuk suporton këtë funksion</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Ngarkimi i burimit të personalizuar dështoi</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Ngjyra e rrezikut</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Rrezik</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Zona e rrezikut</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Hollësi</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Jo aktiv</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Ngjyra e çaktivizuar</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Jo aktiv</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezantim</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Ngjyra e sfondit kryesor 1</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Ngjyra e parë primare</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Fillimi 1</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Pjesa 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Ngjyra e pjesës kryesore 3</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Ngjyra e tretë kryesore</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
     <value>Fillimi 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Ngjyra e sfondit kryesor 2</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>Ngjyra e dytë primare</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Modeli 2</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Ngjyra e tekstit parë</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Teksti kryesor</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Ngjyra e tekstit bazë 3</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Teksti kryesor</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Ngjyra e tekstit bazë 2</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Teksti kryesor</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Pjesa 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Emrat e mbrojtur të galerisë nuk lejohen. Ju lutem provoni një emër tjetër</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Termi i kërkimit</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Ngjyra e sfondit dytësor</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Ngjyra e parë dytësore</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Sfondi i dytë 1</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Sekonda 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Ngjyra e sfondit dytësor</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>Ngjyra e dytë dytësore</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Sfondi 2 i dytë</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Ngjyra e tekstit dytësor 1 element</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Teksti i dytë 1</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Ngjyra e tekstit dytësor</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Teksti i dytë</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Sekonda 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Zgjidh</value>

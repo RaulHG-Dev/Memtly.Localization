@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>แกล เล รี ที่ มี อยู่</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>สีพื้นหลัง:</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>พื้นหลัง</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>เบราว์เซอร์ของคุณไม่รองรับคุณสมบัตินี้</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>ล้มเหลวในการอัปโหลดทรัพยากรที่กําหนดเอง</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>สีอันตราย</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>อันตราย</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>เขตเวลาอันตราย</value>
   </data>
@@ -512,6 +524,12 @@
     <value>รายละเอียด</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>ปิดการใช้งาน</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>สีของส่วนที่ปิด</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>ปิดการใช้งาน</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>การนําเสนอ</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>สีของพื้นหลังรายการหลัก 1 รายการ</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>สีหลัก:</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>พื้นหลังหลัก 1</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>อันดับ 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>สีพื้นหลังรายการหลัก 3 รายการ</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>สีหลักตัวที่สาม</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>พื้นหลังหลัก 3</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>อันดับ 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>สีของพื้นหลังรายการหลัก 2 รายการ</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>สีหลักตัวที่สอง</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>พื้นหลังหลัก 2</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>สีของรายการหลัก 1 รายการ</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>ข้อความหลัก 1 ข้อความ</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>สีของรายการหลัก 3 รายการ</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>ข้อความหลัก 3 ข้อความ</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>สีของรายการหลัก 2 รายการ</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>ข้อความหลัก 2 ข้อความ</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>อันดับ 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>ไม่อนุญาตให้ใช้ชื่อแกลเลอรี่ที่ป้องกันแล้ว โปรดลองชื่ออื่น</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>จํานวนงวด:</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>สีของพื้นหลังรายการที่สอง 1 รายการ</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>สีรองแรก</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>พื้นหลังลําดับที่สอง 1</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>2551</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>สีพื้นหลังของรายการที่สอง 2 รายการ</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>สีที่สอง</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>พื้นหลัง 2 อันดับ 2</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>สีของรายการที่สอง 1 รายการ</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>ข้อความที่สอง 1 ข้อความ</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>สีของข้อความ 2 รายการที่สอง</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>ข้อความที่สอง 2 ข้อความ</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>2 มกราคม พ.ศ</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>เลือก</value>

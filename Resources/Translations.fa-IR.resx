@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>گالری های موجود</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>رنگ پس زمینه</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>پس زمینه</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>مرورگر شما از این ویژگی پشتیبانی نمی کند</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>شکست در آپلود منابع سفارشی</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>رنگ خطر</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>خطر</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>منطقه خطر</value>
   </data>
@@ -512,6 +524,12 @@
     <value>جزئیات</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>رنگ معلول</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Disabled</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,40 +1153,22 @@
   <data name="Presentation" xml:space="preserve">
     <value>مقدماتی</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>رنگ 1 پس زمینه اصلی</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>اولین رنگ اولیه</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>1 پس زمینه اولیه</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>اولیه 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>رنگ سه پس زمینه اصلی</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>سومین رنگ اولیه</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>3 پس زمینه اولیه</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>رنگ دو پس زمینه اصلی</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>دومین رنگ اولیه</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>مقدماتی 2</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>رنگ یک متن اصلی</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>متن اول</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>رنگ 3 متن اصلی</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>3 متن مقدماتی</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>رنگ دو متن اصلی</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
     <value>مقدماتی 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>جستجو</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>رنگ پس زمینه ثانویه 1</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>اولین رنگ ثانویه</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>ثانویه 1 پس زمینه</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>ثانویه 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>رنگ پس زمینه ثانویه 2</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>دومین رنگ ثانویه</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>2 پس زمینه</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>رنگ متن ثانویه 1</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>ثانویه 1 Text</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>رنگ متن ثانویه 2</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>2 متن</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>دوم</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>گزینه Select</value>

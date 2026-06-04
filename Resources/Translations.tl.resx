@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Makukuhang mga Gallery</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng likuran</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Pinagmulan</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Hindi sinusuportahan ng iyong browser ang bahaging ito</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Sawi sa pag-download ng custom source</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Ang mapanganib na kulay</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Panganib</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Panganib</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Mga Detalye</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>May Kapansanan</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Ang may kapansanang kulay</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>May Kapansanan</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Paghaharap</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangunahing 1 bagay sa likuran</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Ang unang pangunahing kulay</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Pangunahing 1 Pinagmulan</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Pangunahin 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangunahing 3 bagay sa likuran</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Ang ikatlong pangunahing kulay</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Pangunahin 3 Pinagmulan</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Pangunahin 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangunahing 2 bagay sa likuran</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>Ang ikalawang pangunahing kulay</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Pangunahin 2 Pinagmulan</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangunahing 1 na teksto</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Pangunahing 1 Teksto</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangunahing 3 na teksto</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Pangunahin 3 Teksto</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangunahing 2 bagay</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Pangunahing 2 Teksto</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Pangunahin 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Ang iniingatang mga pangalan sa galerya ay hindi ipinahihintulot. Subukan ang ibang pangalan</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Paghahanap</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangalawahing 1 bagay sa likuran</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Ang unang pangalawang kulay</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Ikalawang Bahagi 1 Pinagmulan</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Ikalawang Bahagi 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangalawahing 2 bagay sa likuran</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>Ang ikalawang pangalawang kulay</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Ikalawang Bahagi 2 Pinagmulan</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng pangalawang 1 na teksto</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Ikalawang Teksto</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Ang kulay ng ikalawang 2 artikulo</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Ikalawang Teksto</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Pangalawang Bahagi 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Pumili</value>

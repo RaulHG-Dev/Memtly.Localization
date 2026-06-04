@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Razpoložljive galerije</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Barva ozadja</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Ozadje</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Vaš brskalnik ne podpira te funkcije</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Ni moč naložiti lastnega vira</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Barva nevarnosti</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Nevarnost</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Nevarno območje</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Podrobnosti</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Onemogočeno</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Barva onemogočenih</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Onemogočeno</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Predstavitev</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Barva osnovnega ozadja postavke 1</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Prva primarna barva</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Osnovno 1 ozadje</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Primarni 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Barva ozadja primarne 3 postavke</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Tretja primarna barva</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Osnovno 3 Ozadje</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Primarni 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Barva ozadja primarne postavke 2</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>Druga primarna barva</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Osnovno ozadje 2</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Barva besedila osnovne 1</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Osnovno 1 besedilo</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Barva besedila osnovne 3</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Osnovno 3 besedilo</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Barva besedila osnovne 2</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Osnovno besedilo 2</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Primarni 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Zaščitena imena galerije niso dovoljena. Poskusite z drugim imenom</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Iskalni izraz</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Barva sekundarnega ozadja postavke 1</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Prva sekundarna barva</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Sekundarno 1 ozadje</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Sekundarni 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Barva sekundarnega ozadja postavke 2</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>Druga sekundarna barva</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Sekundarno ozadje 2</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Barva sekundarnega besedila 1</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Sekundarno 1 besedilo</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Barva sekundarnega 2 besedila</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Sekundarno 2 besedilo</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Sekundarni 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Izberi</value>

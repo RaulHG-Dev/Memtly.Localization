@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Galerii disponibile</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Culoarea fundalului</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Context</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Browser-ul dvs. nu suportă această caracteristică</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Resursa personalizată de încărcare a eșuat</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Culoarea pericolului</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Pericol</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Zonă periculoasă</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Detalii</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Dezactivat</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Culoarea dezactivată</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Dezactivat</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Prezentare</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Culoarea de fond element primar 1</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Prima culoare primară</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Primarul 1 Fundal</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Primar 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Culoarea fundalului elementar primar 3</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>A treia culoare primară</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Fundal primar 3</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Primarul 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Culoarea fundalului elementar primar 2</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>A doua culoare primară</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Fundalul primar 2</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Culoarea textului element primar 1</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Text primar 1</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Culoarea textului elementar primar 3</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Text primar 3</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Culoarea textului elementar primar 2</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Text primar 2</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Primarul 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Numele galeriei protejate nu sunt permise. Vă rugăm să încercați un nume diferit</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Termen căutare</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Culoarea fundalului secundar 1 element</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Prima culoare secundară</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Fundal secundar 1</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Secundar 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Culoarea fundalului secundar 2 element</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>A doua culoare secundară</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Context secundar 2</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Culoarea textului secundar 1 element</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Text secundar 1</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Culoarea textului secundar 2 element</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Text secundar 2</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Secundar 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Alegeți</value>

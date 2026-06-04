@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Tillgängliga gallerier</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Färgen på bakgrunden</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Bakgrund</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Din webbläsare stöder inte denna funktion</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Misslyckades med att ladda upp anpassad resurs</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Faran färg</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Farfar</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Danger Zone</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Detaljer</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Inaktiverad</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Den handikappade färgen</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Inaktiverad</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentation</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Färgen på primär 1 objekt bakgrund</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Första primärfärgen</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Primär 1 bakgrund</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Primär 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Färgen på primär 3 objekt bakgrund</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Den tredje primära färgen</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Primär 3 bakgrund</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Primär 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Färgen på primär 2 objekt bakgrund</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>Den andra primära färgen</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Primär 2 bakgrund</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Färgen på primär 1 artikel text</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Primär 1 Text</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Färgen på primär 3 objekt text</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Primär 3 Text</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Färgen på primär 2 objekt text</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Primär 2 Text</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Primär 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Skyddade gallerinamn är inte tillåtna. Prova ett annat namn</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Sök Term</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Färgen på sekundär 1 objekt bakgrund</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Den första sekundära färgen</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Sekundär 1 Bakgrund</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Sekundär 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Färgen på sekundär 2 objekt bakgrund</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>Andra sekundära färg</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Sekundär 2 bakgrund</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Färgen på sekundär 1 objekt text</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Sekundär 1 Text</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Färgen på sekundär 2 objekt text</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Sekundär 2 Text</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Sekundär 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Välj</value>

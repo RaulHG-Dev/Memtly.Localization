@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Galleries disponibles</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>El color de fons</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Fons</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>El vostre navegador no permet aquesta característica</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Ha fallat en pujar un recurs personalitzat</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>El color de perill</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Perill</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Zona perillosa</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Detalls</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Deshabilitat</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>El color deshabilitat</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Deshabilitat</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentació</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>El color del fons primari 1 element</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>El primer color primari</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Fons primari 1</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Primària 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>El color de fons de l' element primari 3</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>El tercer color primari</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Fons primari 3</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Primària 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>El color de fons de l' element primari 2</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>El segon color primari</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Fons primari 2</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>El color del text primari 1 element</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Text primari 1</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>El color del text principal de l' element 3</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Text primari 3</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>El color del text principal de l' element 2</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Text primari 2</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Primària 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>No es permeten els noms de la galeria Protegit. Si us plau, proveu un nom diferent</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Terme de cerca</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>El color del fons secundari d' un element</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>El primer color secundari</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Fons secundari 1</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Secundaria 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>El color de fons de l' element secundari 2</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>El segon color secundari</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Fons secundari 2</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>El color del text secundari d' un element</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Text secundari 1</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>El color del text de l' element secundari 2</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Text secundari 2</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Secundari 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Selecciona</value>

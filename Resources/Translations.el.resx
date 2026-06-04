@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Διαθέσιμες Γκαλερί</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του φόντου</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Ιστορικό</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Ο περιηγητής σας δεν υποστηρίζει αυτή τη λειτουργία</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Αποτυχία αποστολής προσαρμοσμένου πόρου</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Το χρώμα κινδύνου</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Κίνδυνος</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Ζώνη κινδύνου</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Λεπτομέρειες</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Απενεργοποίηση</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Το απενεργοποιημένο χρώμα</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Απενεργοποίηση</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Παρουσίαση</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του φόντου του πρωτογενούς στοιχείου 1</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Το πρώτο πρωταρχικό χρώμα</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Πρωτογενές 1 φόντο</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Πρωτοβάθμια 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του φόντου του πρωτογενούς 3 αντικειμένου</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Το τρίτο πρωταρχικό χρώμα</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Πρωτογενές 3 Φόντο</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Πρωτοβάθμια 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του πρωτογενούς 2 αντικειμένου</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>Το δεύτερο πρωταρχικό χρώμα</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Βασικό 2 Φόντο</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του πρωτογενούς κειμένου 1 αντικειμένου</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Βασικό κείμενο 1</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του πρωτογενούς κειμένου 3 αντικειμένου</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Βασικό 3 κείμενο</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του πρωτογενούς κειμένου 2 αντικειμένου</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Βασικό κείμενο 2</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Πρωτοβάθμια 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Δεν επιτρέπονται προστατευόμενα ονόματα γκαλερί. Παρακαλώ δοκιμάστε ένα διαφορετικό όνομα</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Όρος αναζήτησης</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του υποβάθρου του δευτερεύοντος στοιχείου 1</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Το πρώτο δευτερεύον χρώμα</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Δευτερεύων 1 Ιστορικό</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Δευτερεύον 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του υποβάθρου του δευτερεύοντος 2 αντικειμένου</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>Το δεύτερο δευτερεύον χρώμα</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Δευτεροβάθμια 2 Φόντο</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του δευτερεύοντος κειμένου 1 αντικειμένου</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Δευτερεύον κείμενο 1</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Το χρώμα του δευτερεύοντος κειμένου 2 στοιχείων</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Δευτερεύον κείμενο 2</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Δευτερεύων 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Επιλογή</value>

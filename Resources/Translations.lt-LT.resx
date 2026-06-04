@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Galerijos</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Fono spalva</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Kontekstas</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Jūsų naršyklė nepalaiko šios funkcijos</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Nepavyko įkelti naudotojo resurso</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Pavojaus spalva</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Pavojus</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Pavojaus zona</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Detaliai</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Išjungtas</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Neigiama spalva</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Išjungtas</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Pristatymas</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Fono pirminio 1 elemento spalva</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Pirmoji pirminė spalva</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>1 pirminė informacija</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>1 pirminis</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>3 pagrindinių elementų fono spalva</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Trečioji pirminė spalva</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>3 pirminė informacija</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>3 pirminė programa</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Fono pirminio 2 elemento spalva</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>Antroji pagrindinė spalva</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>2 pirminė informacija</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Pirminio 1 punkto teksto spalva</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>1 pirminis tekstas</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>3 pirminio punkto teksto spalva</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>3 pirminis tekstas</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Pirminio 2 punkto teksto spalva</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Pradinis 2 tekstas</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>2 pirminis</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Saugomi galerijos pavadinimai neleidžiami. @ info: status</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Paieškos terminas</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Vidutinio 1 punkto fono spalva</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Pirmoji antrinė spalva</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>1 antrinė foninė analizė</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>1-asis antrinis</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Vidutinio 2 punkto fono spalva</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>Antroji antrinė spalva</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>2 antrinė foninė analizė</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Antrinio 1 punkto teksto spalva</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>1-asis tekstas</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Antrinio 2 punkto teksto spalva</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Antrinis 2 tekstas</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>2-asis antrinis</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Pasirinkti</value>

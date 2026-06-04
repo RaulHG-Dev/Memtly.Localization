@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Galeri Tersedia</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>Warna latar belakang</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Latar Belakang</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Peramban Anda tidak mendukung fitur ini</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Gagal mengunggah sumber daya gubahan</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>Warna bahaya</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Bahaya</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Zona Bahaya</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Rincian</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Dinonaktifkan</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>Warna cacat</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Dinonaktifkan</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentasi</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Warna dari latar belakang item 1 primer</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Warna primer pertama</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Latar Belakang 1 Primer</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Utama 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Warna dari 3 item latar belakang primer</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>Warna primer ketiga</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Latar Belakang 3 Primer</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>3 Utama</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Warna dari latar belakang 2 item primer</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>Warna primer kedua</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Latar Belakang 2 Primer</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Warna teks item 1 primer</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Teks 1 Utama</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Warna teks 3 item primer</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Teks 3 Utama</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Warna dari 2 butir teks primer</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Teks Primer 2</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Utama 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Nama galeri yang dilindungi tidak diperbolehkan. Silakan coba nama lain</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Term Pencarian</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>Warna latar belakang item 1 sekunder</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Warna sekunder pertama</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Latar belakang kedua 1</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>1 Second</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Warna 2 item sekunder</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>Warna sekunder kedua</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Latar Belakang Kedua 2</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>Warna teks item sekunder 1</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Teks kedua 1</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Warna teks 2 item sekunder</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Teks sekunder 2</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>2 Second</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Pilih</value>

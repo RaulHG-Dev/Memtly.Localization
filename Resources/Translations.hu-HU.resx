@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Elérhető galériák</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>A háttér színe</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Háttér</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>A böngésző nem támogatja ezt a funkciót</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Nem sikerült feltölteni az egyedi erőforrást</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>A veszély színe</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Veszély</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Veszély zóna</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Részletek</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Letiltva</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>A mozgássérült szín</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Letiltva</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Bemutató</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>Az elsődleges 1 tételes háttér színe</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>Az első elsődleges szín</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Elsődleges 1 Háttér</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Primer 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>Az elsődleges 3 tételes háttér színe</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>A harmadik elsődleges szín</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Elsődleges 3 háttér</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Primer 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>Az elsődleges 2 tételes háttér színe</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>A második elsődleges szín</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Elsődleges 2 háttér</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>Az elsődleges 1 tételes szöveg színe</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Elsődleges 1. szöveg</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>Az elsődleges 3 tételes szöveg színe</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Elsődleges 3 szöveg</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>Az elsődleges 2 tételes szöveg színe</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Elsődleges 2. szöveg</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Elsődleges 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Védett galéria neve nem megengedett. Kérem, próbáljon meg egy másik nevet</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Keresési kifejezés</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>A másodlagos 1 tételes háttér színe</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>Az első másodlagos szín</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Másodlagos 1 Háttér</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Másodlagos 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>A másodlagos 2 tételes háttér színe</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>A második másodlagos szín</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Másodlagos 2 Háttér</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>A másodlagos 1 tételes szöveg színe</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Secondary 1 Text</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>A másodlagos 2 tételes szöveg színe</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Másodlagos 2. szöveg</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Másodlagos 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Kijelölés</value>

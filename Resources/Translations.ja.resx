@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>利用できるギャラリー</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>背景の色</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>プロフィール</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>お使いのブラウザは、この機能をサポートしていません</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>カスタムリソースをアップロードできない</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>危険色</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>危険性</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>危険ゾーン</value>
   </data>
@@ -512,6 +524,12 @@
     <value>インフォメーション</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>バリアフリー</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>無効な色</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>バリアフリー</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>プレゼンテーション</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>主な1項目の背景の色</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>最初の第一次カラー</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>第一次背景</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>第一次予選</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>第一次3項目の背景の色</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>3番目のプライマリカラー</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>第一次3の背景</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>プライマー 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>主な2項目の背景の色</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>第二のプライマリカラー</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>プライマリ2の背景</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>第一次1項目テキストの色</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>第一次テキスト</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>第一次3項目テキストの色</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>プライマリ3テキスト</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>第一次2項目テキストの色</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>プライマリ2テキスト</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>第一次予選</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>保護されたギャラリー名は認められません。 別の名前をお試しください</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>検索条件</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>二次1項目の背景の色</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>最初の二次色</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>二次1の背景</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>二次 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>二次2項目の背景の色</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>2番目の二次色</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>第2次背景</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>二次1項目テキストの色</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>二次 1 テキスト</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>二次2項目テキストの色</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>第2次テキスト</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>二次2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>選択する</value>

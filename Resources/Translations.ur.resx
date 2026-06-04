@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>دستیاب گلّہ</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>پس منظر کا رنگ</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>غیر متصل</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>آپ کا براڈ بینڈ اس خصوصیت کی حمایت نہیں کرتا</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>عادت فراہم کرنے میں ناکامی</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>خطرے کا رنگ</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>رکاوٹ</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>معجزہ</value>
   </data>
@@ -512,6 +524,12 @@
     <value>تفصیلات</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>بند</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>معذور رنگ</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>بند</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>جگہ</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>پرائمری 1 آئٹم بیک کا رنگ</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>پہلا ابتدائی رنگ</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>پہلا قدم</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>ابتدائی ۱</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>پرائمری 3 آئٹم بیک کا رنگ</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>تیسرا بنیادی رنگ</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>ابتدائی ۳ تاریخ</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>ابتدائی ۳</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>پرائمری 2 آئٹم بیک پس منظر کا رنگ</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>دوسرا ابتدائی رنگ</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>پہلی ترمیم</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>پرائمری 1 آئٹم متن کا رنگ</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>ابتدائی ۱ متن</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>پرائمری 3 آئٹم متن کا رنگ</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>ابتدائی ۳ متن</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>پرائمری 2 آئٹم متن کا رنگ</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>ابتدائی ۲ متن</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>ابتدائی 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>حفاظتی گیلری نام کی اجازت نہیں ہے۔ برائے مہربانی مختلف نام تلاش کریں</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>تلاش</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>سیکنڈ 1 آئٹم پس منظر کا رنگ</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>پہلا ثانوی رنگ</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>پہلا مشورہ</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>ثانوی</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>سیکنڈ 2 آئٹم پس منظر کا رنگ</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>دوسرا ثانوی رنگ</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>دوسرا مرحلہ</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>ثانوی 1 آئٹم متن کا رنگ</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>ثانوی ۱ متن</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>ثانوی 2 آئٹم متن کا رنگ</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>دوسرا متن</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>دوسرا مشورہ</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>منتخب کریں</value>

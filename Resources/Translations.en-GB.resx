@@ -325,6 +325,12 @@
   <data name="Available_Galleries" xml:space="preserve">
     <value>Available Galleries</value>
   </data>
+  <data name="Background_Color_Help" xml:space="preserve">
+    <value>The colour of the background</value>
+  </data>
+  <data name="Background_Color_Label" xml:space="preserve">
+    <value>Background</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Your browser does not support this feature</value>
   </data>
@@ -457,6 +463,12 @@
   <data name="CustomResource_Upload_Failed" xml:space="preserve">
     <value>Failed to upload custom resource</value>
   </data>
+  <data name="Danger_Color_Help" xml:space="preserve">
+    <value>The danger colour</value>
+  </data>
+  <data name="Danger_Color_Label" xml:space="preserve">
+    <value>Danger</value>
+  </data>
   <data name="Danger_Zone" xml:space="preserve">
     <value>Danger Zone</value>
   </data>
@@ -512,6 +524,12 @@
     <value>Details</value>
   </data>
   <data name="Disabled" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="Disabled_Color_Help" xml:space="preserve">
+    <value>The disabled colour</value>
+  </data>
+  <data name="Disabled_Color_Label" xml:space="preserve">
     <value>Disabled</value>
   </data>
   <data name="Download" xml:space="preserve">
@@ -1135,41 +1153,23 @@
   <data name="Presentation" xml:space="preserve">
     <value>Presentation</value>
   </data>
-  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
-    <value>The colour of the primary 1 item background</value>
+  <data name="Primary_One_Color_Help" xml:space="preserve">
+    <value>The first primary colour</value>
   </data>
-  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
-    <value>Primary 1 Background</value>
+  <data name="Primary_One_Color_Label" xml:space="preserve">
+    <value>Primary 1</value>
   </data>
-  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
-    <value>The colour of the primary 3 item background</value>
+  <data name="Primary_Three_Color_Help" xml:space="preserve">
+    <value>The third primary colour</value>
   </data>
-  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
-    <value>Primary 3 Background</value>
+  <data name="Primary_Three_Color_Label" xml:space="preserve">
+    <value>Primary 3</value>
   </data>
-  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
-    <value>The colour of the primary 2 item background</value>
+  <data name="Primary_Two_Color_Help" xml:space="preserve">
+    <value>The second primary colour</value>
   </data>
-  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Primary 2 Background</value>
-  </data>
-  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
-    <value>The colour of the primary 1 item text</value>
-  </data>
-  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
-    <value>Primary 1 Text</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
-    <value>The colour of the primary 3 item text</value>
-  </data>
-  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
-    <value>Primary 3 Text</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
-    <value>The colour of the primary 2 item text</value>
-  </data>
-  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Primary 2 Text</value>
+  <data name="Primary_Two_Color_Label" xml:space="preserve">
+    <value>Primary 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Protected gallery names are not allowed. Please try a different name</value>
@@ -1345,29 +1345,17 @@
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Search Term</value>
   </data>
-  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
-    <value>The colour of the secondary 1 item background</value>
+  <data name="Secondary_One_Color_Help" xml:space="preserve">
+    <value>The first secondary colour</value>
   </data>
-  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
-    <value>Secondary 1 Background</value>
+  <data name="Secondary_One_Color_Label" xml:space="preserve">
+    <value>Secondary 1</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
-    <value>The colour of the secondary 2 item background</value>
+  <data name="Secondary_Two_Color_Help" xml:space="preserve">
+    <value>The second secondary colour</value>
   </data>
-  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
-    <value>Secondary 2 Background</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
-    <value>The colour of the secondary 1 item text</value>
-  </data>
-  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
-    <value>Secondary 1 Text</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
-    <value>The colour of the secondary 2 item text</value>
-  </data>
-  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
-    <value>Secondary 2 Text</value>
+  <data name="Secondary_Two_Color_Label" xml:space="preserve">
+    <value>Secondary 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Select</value>
