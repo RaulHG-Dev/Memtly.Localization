@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Скасувати</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Неможливо змінити рівень дозволу користувачів і ярус. Будь ласка, вкажіть інший адміністратор, щоб запобігти блокування системи</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Неможливо змінити рівень дозволів користувачів і ярус, як це єдиний активний адміністратор. Дозування може призвести до блокування системи</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Вимкнено деактивувати обліковий запис, як він використовується для поточного користувача</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Вимкнено до деактивації облікового запису як це єдиний активний адміністратор. Дозування може призвести до блокування системи</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Неможливо видалити обліковий запис за замовчуванням. Ви не можете застигти його, щоб запобігти логіці</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Неможливо видалити за замовчуванням галереї</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Зміна ідентичності</value>
   </data>

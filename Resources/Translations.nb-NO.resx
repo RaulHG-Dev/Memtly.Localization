@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Avbryt</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Klarte ikke å endre de aktive brukernes tillatelser nivå og nivå. Vennligst ha en annen administrator gjøre denne endringen for å forhindre systemlåsing</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Klarte ikke å endre brukerens tillatelser nivå og nivå som det er den eneste aktive administratoren. Det kan føre til systemlåsing</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Klarte ikke å deaktivere kontoen som den brukes av den gjeldende brukeren</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Kan ikke deaktivere kontoen fordi den er den eneste aktive administratoren. Det kan føre til systemlåsing</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Klarte ikke å fjerne standardadmin-kontoen. Du kan imidlertid fryse den for å hindre innlogging</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Kan ikke fjerne standardgalleriet</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Endre identitet</value>
   </data>

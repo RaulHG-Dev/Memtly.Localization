@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Anuluj</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Nie można zmodyfikować poziomu i poziomu uprawnień aktywnych użytkowników. Proszę mieć inny admin dokonać tej zmiany, aby zapobiec blokowaniu systemu</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Nie można zmodyfikować poziomu uprawnień użytkowników i poziomu, ponieważ jest to jedyny aktywny admin. To może spowodować blokowanie systemu</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Nie można wyłączyć konta, ponieważ jest on używany przez bieżącego użytkownika</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Nie można wyłączyć konta, ponieważ jest to jedyny aktywny admin. To może spowodować blokowanie systemu</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Nie można usunąć domyślnego konta administratora. Można jednak zamrozić, aby zapobiec logowaniu</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Nie można usunąć domyślnej galerii</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Zmień tożsamość</value>
   </data>

@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>منسوخ</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>فعال صارفین اجازہ سطح اور توڑ میں ترمیم کرنے میں ناقابل۔ براہ مہربانی اس تبدیلی کو سسٹم لاک آؤٹ کو روکنے کے لئے ہے</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>صارفین کی اجازہ بندی اور توڑر کو تبدیل کرنے میں ناقابل عمل ہے جیسا کہ یہ واحد فعال اdmin ہے۔ ایسا کرنا نظام کو بند کرنے پر منتج ہو سکتا ہے</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>موجودہ صارف کی طرف سے استعمال ہونے والے حساب کو غیر محفوظ کرنے میں ناقابل شناخت</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>غیر فعال اکاؤنٹ بنانے میں ناقابل۔ ایسا کرنا نظام کو بند کرنے پر منتج ہو سکتا ہے</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>طے شدہ Admin اکاؤنٹ حذف کرنے میں ناقابل عمل۔ تاہم ، آپ اسے محفوظ کرنے کے لئے استعمال کر سکتے ہیں</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>ڈی بگ گیلری کو ختم کرنے میں ناکام</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>تبدیل کریں</value>
   </data>

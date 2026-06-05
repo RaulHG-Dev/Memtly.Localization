@@ -373,6 +373,21 @@
   <data name="Cancel" xml:space="preserve">
     <value>Renunță</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Nu s-a putut modifica nivelul permisiunilor utilizatorilor activi și nivelul. Vă rugăm să aveți un alt admin face această schimbare pentru a preveni blocarea sistemului</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Nu s-a putut modifica nivelul permisiunilor utilizatorilor și nivelul, deoarece este singurul administrator activ. Acest lucru poate duce la blocarea sistemului</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Imposibil de dezactivat contul deoarece este utilizat de utilizatorul curent</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Imposibil de dezactivat contul deoarece este singurul admin activ. Acest lucru poate duce la blocarea sistemului</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Imposibil de eliminat contul de admin implicit. Puteți totuși congela pentru a preveni login</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Schimbă identitatea</value>
   </data>

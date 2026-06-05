@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>이름 *</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>활성 사용자 권한 레벨과 계층을 수정할 수 없습니다. 다른 관리자가 시스템 차단을 방지하기 위해이 변경을</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>사용자 권한 레벨과 계층을 수정할 수 없습니다. 이렇게하면 시스템 차단에서 발생할 수 있습니다</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>현재 사용자가 사용 중인 계정 비활성화</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>계정을 비활성화 할 수 없습니다. 이렇게 할 수 있습니다 시스템 lockout에서 결과</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Default admin 계정을 제거 할 수 없습니다. 로그인을 막을 수 있습니다</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>기본 갤러리를 제거 할 수없는</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>ID 변경</value>
   </data>

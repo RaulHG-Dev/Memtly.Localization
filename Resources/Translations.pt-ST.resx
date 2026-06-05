@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancelar</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Não foi possível modificar as permissões de usuários ativos nível e nível. Por favor, tenha outro administrador fazer esta alteração para evitar bloqueio do sistema</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Não foi possível modificar as permissões dos usuários nível e nível, pois é o único administrador ativo. Fazer isso pode resultar em bloqueio do sistema</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Não foi possível desactivar a conta como está a ser usada pelo utilizador actual</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Não foi possível desativar a conta, pois é o único administrador ativo. Fazer isso pode resultar em bloqueio do sistema</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Não foi possível remover a conta de administrador padrão. Você pode, no entanto, congelá-lo para evitar login</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Não foi possível remover a galeria padrão</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Mudar a Identidade</value>
   </data>

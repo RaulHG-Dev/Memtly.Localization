@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Atcelt</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Neizdevās mainīt aktīvo lietotāju atļaujas līmeni un līmeni. Lūdzu, vēl viens admin veikt šīs izmaiņas, lai novērstu sistēmas lokautu</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Nevar mainīt lietotāju atļaujas līmeni un līmeni, jo tas ir vienīgais aktīvais administrators. Tas var izraisīt sistēmas bloķēšanu</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Neizdevās atslēgt kontu, jo to izmanto pašreizējais lietotājs</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Neizdevās atslēgt kontu, jo tas ir vienīgais aktīvais administrators. Tas var izraisīt sistēmas bloķēšanu</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Neizdevās noņemt noklusēto admin kontu. Jūs tomēr varat iesaldēt to, lai novērstu pieteikšanās</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Neizdevās noņemt noklusēto galeriju</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Mainīt identitāti</value>
   </data>

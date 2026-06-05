@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>रद्द करना</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>सक्रिय उपयोगकर्ताओं की अनुमति स्तर और स्तर को संशोधित करने में असमर्थ। सिस्टम लॉकआउट को रोकने के लिए कृपया एक अन्य व्यवस्थापक को यह परिवर्तन करना चाहिए</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>उपयोगकर्ता अनुमति स्तर और स्तर को संशोधित करने में असमर्थ क्योंकि यह एकमात्र सक्रिय व्यवस्थापक है। ऐसा करने से सिस्टम लॉकआउट हो सकता है</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>खाते को निष्क्रिय करने में असमर्थ क्योंकि इसका उपयोग वर्तमान उपयोगकर्ता द्वारा किया जा रहा है</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>खाते को निष्क्रिय करने में असमर्थ क्योंकि यह एकमात्र सक्रिय व्यवस्थापक है। ऐसा करने से सिस्टम लॉकआउट हो सकता है</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>डिफ़ॉल्ट व्यवस्थापक खाते को हटाने में असमर्थ। हालांकि, लॉग इन को रोकने के लिए इसे फ्रीज कर सकते हैं</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>डिफ़ॉल्ट गैलरी को हटाने में असमर्थ</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>पहचान बदलें</value>
   </data>

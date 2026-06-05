@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>取消</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>無法變更正在使用的用戶權限等級和等級 。 請再找一位管理員去做這個更動 以防系統被關閉</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>無法修改用戶所允許的等級和等級, 因為它是唯一的活性管理者 。 有可能导致系統被關閉</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>無法關閉帳號, 因為目前使用者正在使用它</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>無法關閉帳號, 因為它是唯一的活性管理者 。 有可能导致系統被關閉</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>無法移除預設的管理帳號 。 但是可以被冻结以阻止登入</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>無法移除預設相簿</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>更改身份</value>
   </data>

@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cealaigh</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Ní féidir a mhodhnú na n-úsáideoirí gníomhacha ceadanna leibhéal agus sraith. Le do thoil admin eile a dhéanamh ar an athrú chun cosc a chur ar lockout córas</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Ní féidir a mhodhnú na n-úsáideoirí cead leibhéal agus sraith mar go bhfuil sé an admin gníomhach amháin. Ag déanamh mar sin d'fhéadfadh mar thoradh ar an nglasadh córas</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Ní féidir cuntas a dhíghníomhachtú mar go bhfuil sé á úsáid ag an úsáideoir reatha</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Ní féidir cuntas a dhíghníomhachtú mar go bhfuil sé an t-aon admin gníomhach. Ag déanamh mar sin d'fhéadfadh mar thoradh ar an nglasadh córas</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Ní féidir a bhaint as an gcuntas admin réamhshocraithe. Is féidir leat é a reoite, áfach, chun logáil isteach a chosc</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Ní féidir a bhaint as an gailearaí réamhshocraithe</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Amharc ar gach eolas</value>
   </data>

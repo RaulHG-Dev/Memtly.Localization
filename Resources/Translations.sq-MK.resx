@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Anullo</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>E pamundur ndryshimi i nivelit dhe i gomës së përdoruesve aktivë. Keni një tjetër admin të bëjë këtë ndryshim për të parandaluar bllokimin e sistemit</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>I pamundur ndryshimi i nivelit dhe i disponueshëm i të drejtave të përdoruesve pasi është i vetmi admin aktiv. Kjo mund të sjellë si rezultat bllokimin e sistemit</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>I pamundur çaktivizimi i profilit pasi është duke u përdorur nga përdoruesi aktual</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>I pamundur çaktivizimi i profilit pasi është i vetmi admin aktiv. Kjo mund të sjellë si rezultat bllokimin e sistemit</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>E pamundur heqja e profilit të prezgjedhur admin. Mund ta ngrish për të parandaluar hyrjen</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>E pamundur heqja e koleksionit të prezgjedhur</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ndrysho identitetin</value>
   </data>

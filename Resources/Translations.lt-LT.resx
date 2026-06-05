@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Atsisakyti</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Nepavyko pakeisti aktyvių vartotojų leidimų lygio ir pakopos. Prašome turėti kitą admin padaryti šį pakeitimą, siekiant išvengti sistemos blokavimo</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Nepavyko pakeisti naudotojų leidimų lygio ir pakopos, nes tai vienintelis aktyvus administratorius. @ info: whatsthis</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Nepavyko išjungti paskyros, nes ji yra naudojama dabartinio naudotojo</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Nepavyko išjungti paskyros, nes tai vienintelis aktyvus administratorius. @ info: whatsthis</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>@ info: status Jūs galite užšaldyti jį, kad išvengtumėte prisijungimo</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Nepavyko pašalinti numatytosios galerijos</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Keisti tapatybę</value>
   </data>

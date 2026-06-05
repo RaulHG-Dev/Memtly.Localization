@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>إلغاء</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>عدم القدرة على تعديل مستوى تصاريح المستخدمين النشطين. يرجى الحصول على إعلان آخر يجعل هذا التغيير لمنع إغلاق النظام</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>عدم القدرة على تعديل مستوى تصاريح المستخدمين ودرجة سرعتها كما هو الحال بالنسبة للذكور النشط الوحيد. القيام بذلك قد يؤدي إلى إغلاق النظام</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>عدم القدرة على تعطيل الحساب حيث يستخدمه المستخدم الحالي</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>غير قادر على تعطيل الحساب كما هو الحال الوحيد القيام بذلك قد يؤدي إلى إغلاق النظام</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>غير قادر على إزالة حساب الإشهاد على أي حال يمكنك تجميده لمنع الدخول</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>غير قادر على إزالة معرض الخداع</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>تغيير الهوية</value>
   </data>

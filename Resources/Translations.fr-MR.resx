@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Annuler</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Impossible de modifier les autorisations des utilisateurs actifs niveau et niveau. S'il vous plaît avoir un autre administrateur faire ce changement pour empêcher le verrouillage du système</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Impossible de modifier les autorisations des utilisateurs niveau et niveau car il est le seul administrateur actif. Cela peut entraîner un verrouillage du système</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Impossible de désactiver le compte tel qu'il est utilisé par l'utilisateur actuel</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Impossible de désactiver le compte car il est le seul administrateur actif. Cela peut entraîner un verrouillage du système</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Impossible de supprimer le compte admin par défaut. Vous pouvez toutefois le geler pour empêcher la connexion</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Impossible de supprimer la galerie par défaut</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Changer d'identité</value>
   </data>

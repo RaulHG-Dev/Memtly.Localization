@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Aktif kullanıcı izinlerini ve tier'i değiştirmek mümkün değildir. Lütfen başka bir yönetici sistemi kilitlemeyi önlemek için bu değişikliği yapar</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Kullanıcıların izinlerini değiştirmek ve tek aktif yönetici olduğu gibi katmanı değiştirmek mümkün değildir. Bunu yapmak, sistem kilitlenme sonucuna neden olabilir</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Mevcut kullanıcı tarafından kullanılan gibi devre dışı bırakmak mümkün değil</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Tek aktif yönetici olduğu gibi hesabı bozmak mümkün değildir. Doing bu yüzden sistem kilitlenme sonucu olabilir</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Varsayılan yönetici hesabı kaldırmak için kullanılamaz. Bununla birlikte, giriş önlemek için dondurabilirsiniz</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Varsayılan galeriyi kaldırmak için kullanılamaz</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Kimlik Değişimi Değiştirin</value>
   </data>

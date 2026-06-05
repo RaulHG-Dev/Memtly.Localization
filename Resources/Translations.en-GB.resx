@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Unable to modify the active users permissions level and tier. Please have another admin make this change to prevent system lockout</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Unable to modify the users permissions level and tier as it is the only active admin. Doing so may result in system lockout</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Unable to deactivate account as it is being used by the current user</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Unable to deactivate account as it is the only active admin. Doing so may result in system lockout</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Unable to remove the default admin account. You can however freeze it to prevent login</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Unable to remove the default gallery</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Change Identity</value>
   </data>

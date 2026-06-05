@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Tühistage</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Aktiivsete kasutajate õiguste taseme ja taseme muutmine nurjus. Palun laske teisel administraatoril teha see muudatus, et vältida süsteemi lukustumist</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Kasutaja õiguste taseme ja taseme muutmine nurjus, kuna see on ainus aktiivne admin. See võib kaasa tuua süsteemi lukustumise</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Konto deaktiveerimine aktiivse kasutaja poolt nurjus</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Kontot ei saa deaktiveerida, kuna see on ainus aktiivne admin. See võib kaasa tuua süsteemi lukustumise</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Vaikimisi administraatori konto eemaldamine nurjus. Võite selle külmutada, et vältida sisselogimist</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Vaikimisi galerii eemaldamine nurjus</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Identiteedi muutmine</value>
   </data>

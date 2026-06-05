@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Peruuta</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Aktiivisten käyttäjien käyttöoikeuksia ei voitu muuttaa tasolle ja tasolle. Ota toinen admin tehdä tämä muutos estää järjestelmän lukitus</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Ei voitu muuttaa käyttäjien käyttöoikeuksien taso ja taso koska se on ainoa aktiivinen admin. Tämä voi johtaa järjestelmän sulkeutumiseen</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Tiliä ei voitu poistaa käytöstä nykyisen käyttäjän käyttäessä sitä</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Tiliä ei voitu poistaa käytöstä, koska se on ainoa aktiivinen admin. Tämä voi johtaa järjestelmän sulkeutumiseen</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Oletushallintatilin poisto epäonnistui. Voit kuitenkin jäädyttää sen estääksesi kirjautumisen sisään</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Oletusgalleriaa ei voitu poistaa</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Muuta henkilöllisyyttä</value>
   </data>

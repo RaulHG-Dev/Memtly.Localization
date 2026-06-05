@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Annullér</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Kan ikke ændre den aktive brugerrettigheder niveau og niveau. Venligst have en anden admin gøre denne ændring for at forhindre systemet lockout</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Kan ikke ændre brugernes rettigheder niveau og niveau, da det er den eneste aktive admin. Gør det kan resultere i systemlockout</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Kan ikke deaktivere konto som den bruges af den nuværende bruger</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Kan ikke deaktivere konto, da det er den eneste aktive admin. Gør det kan resultere i systemlockout</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Kan ikke fjerne standard admin konto. Du kan dog fryse det for at forhindre login</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Kan ikke fjerne standardgalleri</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ændr identitet</value>
   </data>

@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancel· la</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>No s' ha pogut modificar el nivell de permisos actius dels usuaris i el empatador. Si us plau, tingueu un altre administrador que faci aquest canvi per evitar el bloqueig del sistema</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>No s' ha pogut modificar el nivell de permisos dels usuaris i l' empatador com és l' administrador actiu. Fer- ho així pot provocar un bloqueig en el sistema</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>No s' ha pogut desactivar el compte ja que s' està usant l' usuari actual</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>No es pot desactivar el compte ja que és l' únic administrador actiu. Fer- ho així pot provocar un bloqueig en el sistema</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>No s' ha pogut eliminar el compte d' administrador predeterminat. De tota manera, el podeu congelar per evitar la connexió</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>No s' ha pogut eliminar la galeria per omissió</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Canvia la identitat</value>
   </data>

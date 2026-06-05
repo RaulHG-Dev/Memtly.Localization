@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Prekliči</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Ni moč spremeniti aktivnih uporabnikov. Prosimo, da še en admin to spremembo, da se prepreči zapiranje sistema</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Ni moč spremeniti uporabnikov ravni in stopnje, saj je edini aktivni admin. To lahko povzroči zapiranje sistema</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Ni moč deaktivirati računa, ker ga uporablja trenutni uporabnik</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Ni moč izključiti računa, ker je edini aktivni admin. To lahko povzroči zapiranje sistema</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Ni moč odstraniti privzetega admin računa. Vendar ga lahko zamrznete, da bi preprečili prijavo</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Privzete galerije ni moč odstraniti</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Spremeni identiteto</value>
   </data>

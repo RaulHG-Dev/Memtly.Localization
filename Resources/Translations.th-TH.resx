@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>ยกเลิก</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>ไม่สามารถแก้ไขค่าระดับสิทธิ์ที่อนุญาตของผู้ใช้ที่ทํางานอยู่ได้ โปรดมี admin อีก ทําให้การเปลี่ยนแปลงนี้ป้องกันการล็อคระบบ</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>ไม่สามารถแก้ไขค่าระดับสิทธิ์ที่อนุญาตของผู้ใช้ได้ เนื่องจากมันเป็นเพียง admin ที่ทํางานอยู่ การ ทํา เช่น นั้น อาจ ยัง ผล ให้ ระบบ ถูก กัก ขัง</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>ไม่สามารถปิดการทํางานบัญชีผู้ใช้ได้ เนื่องจากมันถูกใช้โดยผู้ใช้ปัจจุบัน</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>ไม่สามารถปิดการทํางานบัญชีผู้ใช้ได้ เนื่องจากมันเป็นโฆษณาที่ทํางานอยู่เท่านั้น การ ทํา เช่น นั้น อาจ ทํา ให้ ระบบ ถูก ปิด</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>ไม่สามารถลบบัญชีผู้ใช้ปริยายของ admin ได้ อย่างไรก็ตาม คุณสามารถแช่แข็งมันเพื่อป้องกันการล็อกอิน</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>ไม่สามารถลบแกลเลอรีปริยายได้</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>เปลี่ยนการแสดงตัว</value>
   </data>

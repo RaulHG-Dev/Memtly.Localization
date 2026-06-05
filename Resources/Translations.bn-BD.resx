@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>বাতিল</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>সক্রিয় ব্যবহারকারীর অনুমতি ও টাইপার পরিবর্তন করতে ব্যর্থ । অনুগ্রহ করে সিস্টেম অ্যাডমিনিস্ট্রেটরকে এটি লক করার জন্য একটি নতুন প্রশাসন নির্ধারণ করুন</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>ব্যবহারকারীদের অনুমতি পরিবর্তন করতে অক্ষম । সিস্টেম লক করা অবস্থায় আছে</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>বর্তমান ব্যবহারকারীর দ্বারা অ্যাকাউন্ট নিষ্ক্রিয় করতে ব্যর্থ</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>অ্যাকাউন্ট নিষ্ক্রিয় করতে অক্ষম। সিস্টেম লক করা অবস্থায় আছে</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>ডিফল্ট প্রশাসক অ্যাকাউন্ট মুছে ফেলতে ব্যর্থ। লগইন প্রতিরোধ করতে আপনি বন্ধ করতে পারেন</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>ডিফল্ট গ্যালারি খুলতে ব্যর্থ</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>পরিচয় পরিবর্তন করো</value>
   </data>

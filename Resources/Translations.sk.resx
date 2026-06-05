@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Zrušiť</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Nepodarilo sa upraviť úroveň a úroveň aktívnych užívateľov. Prosím, máte ďalší admin vykonať túto zmenu, aby sa zabránilo systému lockout</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Nepodarilo sa zmeniť úroveň a úroveň užívateľských povolení, pretože je to jediný aktívny admin. Výsledkom môže byť vymknutie systému</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Do</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Nepodarilo sa deaktivovať účet, pretože je jediný aktívny administrátor. Výsledkom môže byť vymknutie systému</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Nepodarilo sa odstrániť štandardný admin účet. Môžete však zmraziť, aby sa zabránilo prihláseniu</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Nepodarilo sa odstrániť štandardnú galériu</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Zmeniť identitu</value>
   </data>

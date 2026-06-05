@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Törlés</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Nem sikerült módosítani az aktív felhasználói engedélyek szintjét és szintjét. Kérjük, hogy egy másik admin, hogy ez a változás, hogy megakadályozzák a rendszer zárlat</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Nem sikerült módosítani a felhasználói engedélyek szintjét és szintjét, mivel ez az egyetlen aktív admin. Ennek eredményeként a rendszer bezáródhat</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Nem sikerült kikapcsolni a fiókot, mivel azt az aktuális felhasználó használja</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Nem sikerült kikapcsolni a fiókot, mivel ez az egyetlen aktív admin. Ennek eredményeként a rendszer bezáródhat</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Nem sikerült eltávolítani az alapértelmezett admin fiókot. A bejelentkezés megelőzése érdekében azonban lefagyaszthatja</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Nem sikerült eltávolítani az alapértelmezett galériát</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Azonosítás módosítása</value>
   </data>

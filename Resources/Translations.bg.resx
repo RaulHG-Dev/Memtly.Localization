@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Отмяна</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Не може да се модифицира нивото и подреждането на активните потребители. Моля, имайте друг администратор направи тази промяна, за да се предотврати блокиране на системата</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Не може да се модифицира нивото и подреждането на потребителите, тъй като това е единственият активен администратор. Това може да доведе до блокиране на системата</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Грешка при деактивиране на акаунта, тъй като той се използва от текущия потребител</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Грешка при деактивиране на сметка, тъй като тя е единственият активен администратор. Това може да доведе до блокиране на системата</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Грешка при премахване на администраторската сметка по подразбиране. Можете обаче да го замразява, за да се предотврати влизане</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Грешка при премахване на галерията по подразбиране</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Промяна на самоличността</value>
   </data>

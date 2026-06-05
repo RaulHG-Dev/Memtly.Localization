@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Канцлер</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Активдүү колдонуучулардын уруксаттарынын деңгээлин жана деңгээлин өзгөртө албайт. Системанын жабылышын алдын алуу үчүн дагы бир администраторго бул өзгөрүүнү жасаңыз</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Колдонуучулардын уруксаттарынын деңгээлин жана деңгээлин өзгөртө албайт, анткени бул жалгыз активдүү администратор. Бул системаны кулпулоого алып келиши мүмкүн</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Аккаунтту өчүрүүгө мүмкүн эмес, анткени аны учурдагы колдонуучу колдонуп жатат</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Эсепти өчүрүүгө жөндөмсүз, анткени ал жалгыз активдүү администратор. Бул системаны кулпулоого алып келиши мүмкүн</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Демейки администратордук эсепти алып салууга жөндөмсүз. Бирок аны тоңдуруп койсоңор болот</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Демейки галереяны алып салууга жөндөмсүз</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Өзгөрүү идентификациясы</value>
   </data>

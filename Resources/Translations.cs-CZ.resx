@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Zrušit</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Nelze změnit úroveň oprávnění aktivních uživatelů a úroveň. Další admin, aby tuto změnu, aby se zabránilo zablokování systému</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Nelze upravit úroveň oprávnění uživatelů a úroveň, protože je jediným aktivním admin. To může mít za následek blokování systému</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Nelze deaktivovat účet, protože jej používá současný uživatel</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Nelze deaktivovat účet, protože je jediným aktivním adminem. To může mít za následek blokování systému</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Nelze odstranit výchozí admin účet. Můžete však zmrazit, aby se zabránilo přihlášení</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Nelze odstranit výchozí galerii</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Změnit identitu</value>
   </data>

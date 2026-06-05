@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>取消</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>无法修改活动用户允许的级别 。 请另找一位管理员做这个更改,防止系统关闭</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>无法修改用户的关卡和关卡, 因为它是唯一活跃的管理员 。 这样做可能导致系统关闭</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>无法关闭当前用户正在使用的账户</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>无法关闭账户, 因为它是唯一的活跃管理员 。 这样做可能导致系统关闭</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>无法删除默认的管理账户 。 不过您可以冻结它以防止登录</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>无法删除默认相册</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>更改身份</value>
   </data>

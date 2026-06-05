@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Huwag ituloy</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Ang hindi kayang baguhin ang aktibong mga gumagamit ay pumapayag sa antas at andana. Pakisuyong magkaroon ng isa pang admin na gagawa ng pagbabagong ito upang hadlangan ang sistema ng lockout</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Hindi kayang baguhin ng mga gumagamit ang antas at andana yamang ito lamang ang tanging aktibong admin. Ang paggawa ng gayon ay maaaring magbunga ng system lockout</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Hindi ma-deaktibong account habang ito ay ginagamit ng kasalukuyang gumagamit</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Hindi kayang i-deactivate ang account habang ito lamang ang aktibong admin. Ang paggawa ng gayon ay maaaring magbunga ng system lockout</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Hindi matanggal ang default admin account. Maaari mo itong palamigin upang maiwasan ang pagpasok</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Hindi matanggal ang default gallery</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Palitan ang Pagkakakilanlan</value>
   </data>

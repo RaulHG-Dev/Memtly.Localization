@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Avbokning</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Det går inte att ändra den aktiva användarens behörighetsnivå och nivå. Vänligen ha en annan admin gör denna förändring för att förhindra system lockout</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Det går inte att ändra användarnas behörighetsnivå och nivå eftersom det är den enda aktiva admin. Att göra det kan resultera i system lockout</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Kan inte inaktivera konto eftersom det används av den nuvarande användaren</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Det går inte att avaktivera konto eftersom det är den enda aktiva admin. Att göra det kan resultera i system lockout</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Kan inte ta bort standard admin konto. Du kan dock frysa den för att förhindra inloggning</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Kan inte ta bort standard galleriet</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ändra identitet</value>
   </data>

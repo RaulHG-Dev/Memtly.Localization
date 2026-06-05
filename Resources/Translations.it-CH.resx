@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Annulla</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Non è possibile modificare il livello e il livello delle autorizzazioni degli utenti attivi. Si prega di avere un altro amministratore fare questa modifica per evitare il blocco di sistema</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Incapace di modificare il livello e il livello delle autorizzazioni degli utenti in quanto è l'unico amministratore attivo. In questo modo può portare a blocco di sistema</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Non è possibile disattivare l'account in quanto viene utilizzato dall'utente corrente</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Incapace di disattivare l'account in quanto è l'unico amministratore attivo. In questo modo può portare a blocco di sistema</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Non è possibile rimuovere l'account amministratore predefinito. Puoi comunque congelarlo per evitare il login</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Non è possibile rimuovere la galleria predefinita</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Cambia identità</value>
   </data>

@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>لغو</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>غیر قابل تغییر برای تغییر سطح اجازه کاربران فعال و لایه. لطفا یک مدیر دیگر این تغییر را برای جلوگیری از قفل سیستم انجام دهید</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>غیر قابل تغییر برای تغییر سطح اجازه کاربران و لایه به عنوان تنها مدیر فعال است. انجام این کار ممکن است منجر به قفل سیستم شود</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>غیر قابل غیرفعال کردن حساب به عنوان آن توسط کاربر فعلی استفاده می شود</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>غیر قابل غیرفعال کردن حساب به عنوان تنها مدیر فعال است. انجام این کار ممکن است منجر به قفل سیستم شود</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>امکان حذف حساب پیش فرض شما می توانید آن را منجمد کنید تا از ورود جلوگیری کنید</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>امکان حذف گالری پیش فرض</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>تغییر هویت</value>
   </data>

@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Utzi</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Ezin da erabiltzaile aktiboen baimen maila eta maila aldatu. Mesedez, beste administratzaile batek egin dezala aldaketa hau sistemaren blokeoa saihesteko</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Ezin da erabiltzailearen baimenen maila aldatu, administratzaile aktibo bakarra baita. Horrela, sistemaren blokeoa gerta daiteke</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Ezin da kontua desaktibatu uneko erabiltzaileak erabiltzen duelako</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Ezin da kontua desaktibatu, administratzaile aktibo bakarra delako. Horrela, sistemaren blokeoa gerta daiteke</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Ezin da administratzaile lehenetsia kendu. Hala ere, blokeatu egin dezakezu saioa ez hasteko</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Ezin da galeria lehenetsia kendu</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Aldatu identitatea</value>
   </data>

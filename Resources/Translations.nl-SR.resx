@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Annuleren</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Kan het niveau en niveau van de actieve gebruikersmachtigingen niet wijzigen. Laat een andere beheerder deze wijziging maken om systeem vergrendeling te voorkomen</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Niet in staat om de gebruikersrechten niveau en tier als het is de enige actieve admin te wijzigen. Dit kan resulteren in systeemsluiting</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Kan account niet deactiveren omdat het wordt gebruikt door de huidige gebruiker</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Kan account niet deactiveren omdat het de enige actieve admin is. Dit kan resulteren in systeemsluiting</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Kon het standaardbeheeraccount niet verwijderen. U kunt het echter bevriezen om inloggen te voorkomen</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Kon de standaard galerij niet verwijderen</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Identiteit wijzigen</value>
   </data>

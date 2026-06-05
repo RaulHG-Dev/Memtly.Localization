@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>ביטול</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>לא ניתן לשנות את רמת הרשאות של משתמשים פעילים ושכבה. בבקשה יש עוד מנהל לעשות את השינוי הזה כדי למנוע מנעול מערכת</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>לא ניתן לשנות את רמת הרשאות של המשתמשים ואת השכבה כפי שהוא המנהל הפעיל היחיד. פעולה זו עלולה לגרום למנעול מערכת</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>לא ניתן לבטל את החשבון כפי שהוא משמש על ידי המשתמש הנוכחי</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>לא ניתן לבטל את החשבון כפי שהוא המנהל הפעיל היחיד. פעולה זו עלולה לגרום למנעול מערכת</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>לא ניתן להסיר את חשבון ברירת המחדל. עם זאת, ניתן להקפיא אותו כדי למנוע כניסה</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>לא ניתן להסיר את גלריית ברירת המחדל</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>שינוי זהות</value>
   </data>

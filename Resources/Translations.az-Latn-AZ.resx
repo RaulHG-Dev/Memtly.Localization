@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Tarix</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Aktiv istifadəçilərin səviyyəsi və tier-i dəyişikliklərini dəyişdirmək mümkün deyil. Sistem kilidinin qarşısını almaq üçün bu dəyişiklik edin</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>İstifadəçilərin səviyyə və tier-i yalnız aktiv admin olduğu kimi dəyişdirməlidir. Sistemin kilidi ilə əlaqədar olaraq</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Cari istifadəçi tərəfindən istifadə edilən kimi deactivate hesab edəcəksiniz</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Bu yalnız aktiv admin olduğu kimi deactivate hesab edəcək. Sistemin kilidi ilə əlaqədar olaraq</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Default admin hesabının aradan qaldırılması. Lakin giriş qarşısını almaq üçün onu dondura bilərsiniz</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Default gallery aradan qaldırmaq</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>

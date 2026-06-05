@@ -373,6 +373,24 @@
   <data name="Cancel" xml:space="preserve">
     <value>Batal</value>
   </data>
+  <data name="Cannot_Change_Current_User_Level_Tier" xml:space="preserve">
+    <value>Tidak dapat memodifikasi tingkat perizinan pengguna aktif dan tingkat. Harap memiliki admin lain membuat perubahan ini untuk mencegah penguncian sistem</value>
+  </data>
+  <data name="Cannot_Change_Only_Admin" xml:space="preserve">
+    <value>Tidak dapat mengubah tingkat perizinan pengguna dan tingkat karena hanya admin aktif. Melakukan sehingga dapat menghasilkan penguncian sistem</value>
+  </data>
+  <data name="Cannot_Deactivate_Current_User" xml:space="preserve">
+    <value>Tidak dapat menonaktifkan akun karena digunakan oleh pengguna saat ini</value>
+  </data>
+  <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
+    <value>Tidak dapat menonaktifkan akun karena hanya merupakan admin aktif. Melakukan sehingga dapat menghasilkan penguncian sistem</value>
+  </data>
+  <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
+    <value>Tidak dapat menghapus akun admin baku. Anda dapat membekukannya untuk mencegah login</value>
+  </data>
+  <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
+    <value>Tidak dapat menghapus galeri baku</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ubah Identitas</value>
   </data>
