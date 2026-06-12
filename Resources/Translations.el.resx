@@ -712,6 +712,9 @@
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>Αποτυχία εύρεσης αρχείου</value>
   </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>Αποτυχία λήψης λίστας συλλογής</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Αποτυχία εισαγωγής δεδομένων</value>
   </data>

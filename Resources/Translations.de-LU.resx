@@ -712,6 +712,9 @@
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>Konnte die Datei nicht finden</value>
   </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>Versäumt, Galerie Liste zu erhalten</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Fehler beim importieren der Daten</value>
   </data>

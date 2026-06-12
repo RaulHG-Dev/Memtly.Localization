@@ -712,6 +712,9 @@
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>No s' ha pogut trobar el fitxer</value>
   </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>Ha fallat en obtenir la llista de la galeria</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>No s' han pogut importar les dades</value>
   </data>

@@ -712,6 +712,9 @@
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>شکست برای پیدا کردن فایل</value>
   </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>شکست در لیست گالری</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>شکست در واردات داده ها</value>
   </data>

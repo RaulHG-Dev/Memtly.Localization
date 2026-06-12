@@ -712,6 +712,9 @@
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>ফাইল সন্ধান করতে ব্যর্থ</value>
   </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>সংকলনের তালিকা প্রাপ্ত করতে ব্যর্থ</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>পরিচয় প্রমাণে ব্যর্থ।</value>
   </data>

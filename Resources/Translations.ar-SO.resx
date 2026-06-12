@@ -712,6 +712,9 @@
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>فشل في العثور على ملف</value>
   </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>فشل في الحصول على قائمة المعرض</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>الفشل في الحصول على بيانات الاستيراد</value>
   </data>
