@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>অ্যাকাউন্ট নিষ্ক্রিয় করতে অক্ষম। সিস্টেম লক করা অবস্থায় আছে</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>সংকলনের অংশ রূপে গ্যালারির পরিবর্তন করা সম্ভব নয়</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>ডিফল্ট প্রশাসক অ্যাকাউন্ট মুছে ফেলতে ব্যর্থ। লগইন প্রতিরোধ করতে আপনি বন্ধ করতে পারেন</value>
   </data>

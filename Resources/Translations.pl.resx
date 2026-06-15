@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Nie można wyłączyć konta, ponieważ jest to jedyny aktywny admin. To może spowodować blokowanie systemu</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Nie można usunąć galerii, ponieważ jest członkiem kolekcji</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Nie można usunąć domyślnego konta administratora. Można jednak zamrozić, aby zapobiec logowaniu</value>
   </data>

@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>غیر قابل غیرفعال کردن حساب به عنوان تنها مدیر فعال است. انجام این کار ممکن است منجر به قفل سیستم شود</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>نمی تواند گالری را حذف کند زیرا عضو یک مجموعه است</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>امکان حذف حساب پیش فرض شما می توانید آن را منجمد کنید تا از ورود جلوگیری کنید</value>
   </data>

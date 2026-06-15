@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Вимкнено до деактивації облікового запису як це єдиний активний адміністратор. Дозування може призвести до блокування системи</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Не видаляти галерею, як це є членом колекції</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Неможливо видалити обліковий запис за замовчуванням. Ви не можете застигти його, щоб запобігти логіці</value>
   </data>

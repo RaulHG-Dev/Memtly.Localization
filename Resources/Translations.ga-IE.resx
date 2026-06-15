@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Ní féidir cuntas a dhíghníomhachtú mar go bhfuil sé an t-aon admin gníomhach. Ag déanamh mar sin d'fhéadfadh mar thoradh ar an nglasadh córas</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Ní féidir gailearaí a scriosadh mar go bhfuil sé ina bhall de bhailiúchán</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Ní féidir a bhaint as an gcuntas admin réamhshocraithe. Is féidir leat é a reoite, áfach, chun logáil isteach a chosc</value>
   </data>

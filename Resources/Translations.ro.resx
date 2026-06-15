@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Imposibil de dezactivat contul deoarece este singurul admin activ. Acest lucru poate duce la blocarea sistemului</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Nu se poate șterge galeria deoarece este membru al unei colecții</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Imposibil de eliminat contul de admin implicit. Puteți totuși congela pentru a preveni login</value>
   </data>

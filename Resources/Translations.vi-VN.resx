@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Không thể tắt tài khoản vì nó là nền hoạt động duy nhất. Làm như vậy có thể dẫn đến khoá hệ thống</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Không thể xoá nơi trưng bày vì nó là một bộ sưu tập</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Không thể gỡ bỏ tài khoản manmin mặc định. Tuy nhiên, bạn có thể đóng băng nó để tránh đăng nhập</value>
   </data>

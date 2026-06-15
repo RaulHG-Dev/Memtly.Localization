@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Kan ikke deaktivere kontoen fordi den er den eneste aktive administratoren. Det kan føre til systemlåsing</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Kan ikke slette galleri som det er medlem av en samling</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Klarte ikke å fjerne standardadmin-kontoen. Du kan imidlertid fryse den for å hindre innlogging</value>
   </data>

@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>無法關閉帳號, 因為它是唯一的活性管理者 。 有可能导致系統被關閉</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>由于是收藏的一員而無法刪除相簿</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>無法移除預設的管理帳號 。 但是可以被冻结以阻止登入</value>
   </data>

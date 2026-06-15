@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Nepodarilo sa deaktivovať účet, pretože je jediný aktívny administrátor. Výsledkom môže byť vymknutie systému</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Nie je možné odstrániť galériu, pretože je členom kolekcie</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Nepodarilo sa odstrániť štandardný admin účet. Môžete však zmraziť, aby sa zabránilo prihláseniu</value>
   </data>

@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Kan account niet deactiveren omdat het de enige actieve admin is. Dit kan resulteren in systeemsluiting</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Kan galerij niet verwijderen omdat het lid is van een collectie</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Kon het standaardbeheeraccount niet verwijderen. U kunt het echter bevriezen om inloggen te voorkomen</value>
   </data>

@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Nepavyko išjungti paskyros, nes tai vienintelis aktyvus administratorius. @ info: whatsthis</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Negalima ištrinti galerijos, nes ji yra kolekcijos narys</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>@ info: status Jūs galite užšaldyti jį, kad išvengtumėte prisijungimo</value>
   </data>

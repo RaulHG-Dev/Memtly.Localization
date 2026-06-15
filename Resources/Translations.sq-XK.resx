@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>I pamundur çaktivizimi i profilit pasi është i vetmi admin aktiv. Kjo mund të sjellë si rezultat bllokimin e sistemit</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>E pamundur fshirja e koleksionit pasi është një anëtare e një koleksioni</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>E pamundur heqja e profilit të prezgjedhur admin. Mund ta ngrish për të parandaluar hyrjen</value>
   </data>

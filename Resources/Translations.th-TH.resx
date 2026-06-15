@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>ไม่สามารถปิดการทํางานบัญชีผู้ใช้ได้ เนื่องจากมันเป็นโฆษณาที่ทํางานอยู่เท่านั้น การ ทํา เช่น นั้น อาจ ทํา ให้ ระบบ ถูก ปิด</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>ไม่สามารถลบคลังภาพ เนื่องจากมันเป็นสมาชิกของชุดสะสมได้</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>ไม่สามารถลบบัญชีผู้ใช้ปริยายของ admin ได้ อย่างไรก็ตาม คุณสามารถแช่แข็งมันเพื่อป้องกันการล็อกอิน</value>
   </data>

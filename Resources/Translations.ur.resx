@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>غیر فعال اکاؤنٹ بنانے میں ناقابل۔ ایسا کرنا نظام کو بند کرنے پر منتج ہو سکتا ہے</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>گیلری کو ختم نہیں کیا جا سکتا جیسا کہ یہ مجموعہ کا حصہ ہے۔</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>طے شدہ Admin اکاؤنٹ حذف کرنے میں ناقابل عمل۔ تاہم ، آپ اسے محفوظ کرنے کے لئے استعمال کر سکتے ہیں</value>
   </data>

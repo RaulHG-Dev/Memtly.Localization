@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Incapaz de desactivar la cuenta ya que es el único administrador activo. Hacerlo puede resultar en bloqueo del sistema</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>No se puede borrar galería ya que es miembro de una colección</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Incapaz de eliminar la cuenta de administración predeterminada. Sin embargo, puede congelarlo para evitar la entrada</value>
   </data>
@@ -465,6 +468,9 @@
   </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Por favor, introduzca un nuevo nombre de colección</value>
+  </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>Por lo menos dos galerías son necesarias para crear una colección</value>
   </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>Ajustes de la colección</value>

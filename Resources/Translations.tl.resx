@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Hindi kayang i-deactivate ang account habang ito lamang ang aktibong admin. Ang paggawa ng gayon ay maaaring magbunga ng system lockout</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Hindi maaaring alisin ang galerya yamang ito ay isang miyembro ng isang koleksiyon</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Hindi matanggal ang default admin account. Maaari mo itong palamigin upang maiwasan ang pagpasok</value>
   </data>

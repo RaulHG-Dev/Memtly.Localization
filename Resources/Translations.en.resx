@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Unable to deactivate account as it is the only active admin. Doing so may result in system lockout</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Cannot delete gallery as it is a member of a collection</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Unable to remove the default admin account. You can however freeze it to prevent login</value>
   </data>

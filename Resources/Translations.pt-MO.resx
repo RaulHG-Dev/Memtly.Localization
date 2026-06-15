@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Não foi possível desativar a conta, pois é o único administrador ativo. Fazer isso pode resultar em bloqueio do sistema</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Não é possível apagar a galeria porque ela é um membro de uma coleção</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Não foi possível remover a conta de administrador padrão. Você pode, no entanto, congelá-lo para evitar login</value>
   </data>

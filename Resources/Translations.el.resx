@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Αδυναμία απενεργοποίησης του λογαριασμού καθώς είναι ο μόνος ενεργός διαχειριστής. Αυτό μπορεί να οδηγήσει σε κλείδωμα του συστήματος</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Αδυναμία διαγραφής της συλλογής καθώς είναι μέλος μιας συλλογής</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Αδυναμία αφαίρεσης του προεπιλεγμένου λογαριασμού διαχειριστή. Μπορείτε ωστόσο να το παγώσετε για να αποτρέψετε τη σύνδεση</value>
   </data>

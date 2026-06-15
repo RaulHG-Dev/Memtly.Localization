@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Impossible de désactiver le compte car il est le seul administrateur actif. Cela peut entraîner un verrouillage du système</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Impossible de supprimer la galerie car elle est membre d'une collection</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Impossible de supprimer le compte admin par défaut. Vous pouvez toutefois le geler pour empêcher la connexion</value>
   </data>

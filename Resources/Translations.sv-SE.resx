@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Det går inte att avaktivera konto eftersom det är den enda aktiva admin. Att göra det kan resultera i system lockout</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Kan inte ta bort galleri eftersom det är medlem i en samling</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Kan inte ta bort standard admin konto. Du kan dock frysa den för att förhindra inloggning</value>
   </data>

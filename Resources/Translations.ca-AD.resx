@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>No es pot desactivar el compte ja que és l' únic administrador actiu. Fer- ho així pot provocar un bloqueig en el sistema</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>No es pot eliminar la galeria ja que és membre d' una col· lecció</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>No s' ha pogut eliminar el compte d' administrador predeterminat. De tota manera, el podeu congelar per evitar la connexió</value>
   </data>

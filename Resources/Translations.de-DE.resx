@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Unfähig, Konto zu deaktivieren, da es der einzige aktive Administrator ist. Dies kann zu einer Systemverriegelung führen</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Galerie nicht löschen, da es ein Mitglied einer Sammlung ist</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Unfähig, das Standard-Admin-Konto zu entfernen. Sie können es jedoch einfrieren, um Login zu verhindern</value>
   </data>

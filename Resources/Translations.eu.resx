@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Ezin da kontua desaktibatu, administratzaile aktibo bakarra delako. Horrela, sistemaren blokeoa gerta daiteke</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Ezin da galeria ezabatu bilduma bateko kidea delako</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Ezin da administratzaile lehenetsia kendu. Hala ere, blokeatu egin dezakezu saioa ez hasteko</value>
   </data>

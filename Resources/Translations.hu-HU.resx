@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Nem sikerült kikapcsolni a fiókot, mivel ez az egyetlen aktív admin. Ennek eredményeként a rendszer bezáródhat</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>A galéria nem törölhető, mivel egy gyűjtemény tagja</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Nem sikerült eltávolítani az alapértelmezett admin fiókot. A bejelentkezés megelőzése érdekében azonban lefagyaszthatja</value>
   </data>

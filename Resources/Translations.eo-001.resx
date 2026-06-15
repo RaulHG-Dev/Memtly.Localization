@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Nekapabla malaktivigi raporton kiam ĝi estas la nura aktiva admin. Faru tion povas rezultigi sistemseruron</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Ne povas forigi galerion kiam ĝi estas membro de kolekto</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Nekapabla forigi la defaŭltan adminkonton. Vi povas tamen frostigi ĝin por malhelpi ensaluton</value>
   </data>

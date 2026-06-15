@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Эсепти өчүрүүгө жөндөмсүз, анткени ал жалгыз активдүү администратор. Бул системаны кулпулоого алып келиши мүмкүн</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Галерияны жок кыла албайт, анткени ал коллекциянын мүчөсү</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Демейки администратордук эсепти алып салууга жөндөмсүз. Бирок аны тоңдуруп койсоңор болот</value>
   </data>

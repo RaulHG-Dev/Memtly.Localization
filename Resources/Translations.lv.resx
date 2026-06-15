@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Neizdevās atslēgt kontu, jo tas ir vienīgais aktīvais administrators. Tas var izraisīt sistēmas bloķēšanu</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Nevar izdzēst galeriju, jo tā ir kolekcijas dalībniece</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Neizdevās noņemt noklusēto admin kontu. Jūs tomēr varat iesaldēt to, lai novērstu pieteikšanās</value>
   </data>

@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>غير قادر على تعطيل الحساب كما هو الحال الوحيد القيام بذلك قد يؤدي إلى إغلاق النظام</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>لا يمكن أن تحذف المعرض لأنه عضو في مجموعة</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>غير قادر على إزالة حساب الإشهاد على أي حال يمكنك تجميده لمنع الدخول</value>
   </data>

@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Грешка при деактивиране на сметка, тъй като тя е единственият активен администратор. Това може да доведе до блокиране на системата</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Грешка при изтриване на галерия, тъй като тя е член на колекция</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Грешка при премахване на администраторската сметка по подразбиране. Можете обаче да го замразява, за да се предотврати влизане</value>
   </data>
@@ -465,6 +468,9 @@
   </data>
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Моля въведете ново име на колекцията</value>
+  </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>За създаването на колекция са необходими поне две галерии</value>
   </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>Настройки на колекцията</value>

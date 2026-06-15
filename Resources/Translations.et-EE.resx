@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Kontot ei saa deaktiveerida, kuna see on ainus aktiivne admin. See võib kaasa tuua süsteemi lukustumise</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Galerii ei saa kustutada, kuna see on kollektsiooni liige</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Vaikimisi administraatori konto eemaldamine nurjus. Võite selle külmutada, et vältida sisselogimist</value>
   </data>

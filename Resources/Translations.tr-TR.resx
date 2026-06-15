@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Tek aktif yönetici olduğu gibi hesabı bozmak mümkün değildir. Doing bu yüzden sistem kilitlenme sonucu olabilir</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Galeriyi bir koleksiyon üyesi olduğu gibi silemez</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Varsayılan yönetici hesabı kaldırmak için kullanılamaz. Bununla birlikte, giriş önlemek için dondurabilirsiniz</value>
   </data>

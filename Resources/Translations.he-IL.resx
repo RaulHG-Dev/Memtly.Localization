@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>לא ניתן לבטל את החשבון כפי שהוא המנהל הפעיל היחיד. פעולה זו עלולה לגרום למנעול מערכת</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>אי אפשר למחוק את הגלריה כפי שהיא חברה באוסף</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>לא ניתן להסיר את חשבון ברירת המחדל. עם זאת, ניתן להקפיא אותו כדי למנוע כניסה</value>
   </data>

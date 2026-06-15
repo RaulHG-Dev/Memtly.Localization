@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>无法关闭账户, 因为它是唯一的活跃管理员 。 这样做可能导致系统关闭</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>无法删除收藏库, 因为它是收藏库的成员</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>无法删除默认的管理账户 。 不过您可以冻结它以防止登录</value>
   </data>

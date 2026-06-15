@@ -394,6 +394,9 @@
   <data name="Cannot_Deactivate_Only_Admin" xml:space="preserve">
     <value>Ni moč izključiti računa, ker je edini aktivni admin. To lahko povzroči zapiranje sistema</value>
   </data>
+  <data name="Cannot_Delete_Collection_Member" xml:space="preserve">
+    <value>Ni moč zbrisati galerije, ker je član zbirke</value>
+  </data>
   <data name="Cannot_Delete_Default_Admin" xml:space="preserve">
     <value>Ni moč odstraniti privzetega admin računa. Vendar ga lahko zamrznete, da bi preprečili prijavo</value>
   </data>
