@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>Hau probako mezua da</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>Atzeko planoaren kolorea</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Testua</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>Gaia</value>
   </data>

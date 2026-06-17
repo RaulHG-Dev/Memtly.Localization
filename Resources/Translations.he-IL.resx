@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>זהו הודעת מבחן</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>צבע הרקע</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>טקסט</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>נושא</value>
   </data>

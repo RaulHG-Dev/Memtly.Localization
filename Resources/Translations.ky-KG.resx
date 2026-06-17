@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>Бул сыноо билдирүүсү</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>Арттагы түстүн түсү</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Тексттин тексти</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>Темасы</value>
   </data>

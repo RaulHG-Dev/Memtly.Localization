@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>Це тестове повідомлення</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>Колір фону</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Головна</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>Головна</value>
   </data>

@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>Ini adalah pesan tes</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>Warna latar belakang</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Teks</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>Tema</value>
   </data>

@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>@ info: status</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>Fono spalva</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Tekstas</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>Tema</value>
   </data>

@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>Ceci est un message de test</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>La couleur du fond</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Texte</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>Thème</value>
   </data>

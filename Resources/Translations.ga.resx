@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>Is teachtaireacht tástála é seo</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>Dath an chúlra</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Téacs téacs</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>Téama</value>
   </data>

@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>이것은 테스트 메시지입니다</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>배경의 색상</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>이름 *</value>
   </data>

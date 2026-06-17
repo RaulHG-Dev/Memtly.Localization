@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Rozvržení</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Úroveň</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Světlo</value>
   </data>
@@ -2175,6 +2178,12 @@
   </data>
   <data name="Test_Message" xml:space="preserve">
     <value>Toto je zpráva o zkoušce</value>
+  </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>Barva pozadí</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Text</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Téma</value>

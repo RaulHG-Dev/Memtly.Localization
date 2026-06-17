@@ -1060,6 +1060,9 @@
   <data name="Layout" xml:space="preserve">
     <value>Layout</value>
   </data>
+  <data name="Level" xml:space="preserve">
+    <value>Nivå</value>
+  </data>
   <data name="Light" xml:space="preserve">
     <value>Ljus ljus</value>
   </data>
@@ -2175,6 +2178,12 @@
   </data>
   <data name="Test_Message" xml:space="preserve">
     <value>Detta är ett testmeddelande</value>
+  </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>Färgen på bakgrunden</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Texttext</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Tema</value>

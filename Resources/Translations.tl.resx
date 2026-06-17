@@ -2179,6 +2179,9 @@
   <data name="Test_Message" xml:space="preserve">
     <value>Ito ay isang pagsubok na mensahe</value>
   </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>Teksto</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>Tema</value>
   </data>

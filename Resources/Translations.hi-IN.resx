@@ -2179,6 +2179,12 @@
   <data name="Test_Message" xml:space="preserve">
     <value>यह एक परीक्षण संदेश है</value>
   </data>
+  <data name="Text_Color_Help" xml:space="preserve">
+    <value>पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Text_Color_Label" xml:space="preserve">
+    <value>पाठ</value>
+  </data>
   <data name="Theme" xml:space="preserve">
     <value>विषय</value>
   </data>
