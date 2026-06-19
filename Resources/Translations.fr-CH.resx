@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>Code</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>Recouvrement</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>Créer une collection</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>Tout sélectionner</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>Veuillez sélectionner une galerie</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Envoi</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>Gravité</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>Partager</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Code de partage</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>Partager le lien copié dans le presse-papiers</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Afficher les paramètres avancés</value>

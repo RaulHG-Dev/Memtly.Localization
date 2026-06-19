@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>รหัส</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>คลังสื่อ</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>สร้างคลังสื่อ</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>เลือกทั้งหมด</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>โปรดเลือกคลังภาพ</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>กําลังส่ง</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>ความหนาแน่น</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>ใช้ร่วมกัน</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>รหัสใช้ร่วมกัน</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>คัดลอกลิงก์ไปยังคลิปบอร์ด</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>แสดงการตั้งค่าขั้นสูง</value>

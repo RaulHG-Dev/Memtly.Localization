@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>コードコード</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>コレクション</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>コレクションの作成</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>すべてを選択</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>ギャラリーを選択してください</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>送信する</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>サビティ</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>シェア</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>共有コード</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>クリップボードにコピーした共有リンク</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>高度な設定を表示する</value>

@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>Codi</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>Col· lecció</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>Crea una col· lecció</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>Selecciona- ho tot</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>Seleccioneu una galeria</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Enviament</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>Severitat</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>Comparteix</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Codi de compartició</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>S' ha copiat l' enllaç de compartició al porta- retalls</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Mostra els arranjaments avançats</value>

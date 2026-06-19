@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>কোড</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>সংগ্রহ</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>সংগ্রহ</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>সমগ্র নির্বাচন</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>অনুগ্রহ করে একটি গ্যালারি নির্বাচন করুন</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>ছোট থেকে বড়</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>গুরুত্ব: (v)</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>যৌথ ব্যবহার</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>শেয়ার কোড</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>ক্লিপবোর্ড শেয়ার করুন</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>উন্নত সেটিংসমূহ প্রদর্শন করা হবে</value>

@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kód</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>Zber</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>Vytvoriť kolekciu</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>Vybrať všetko</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>Prosím vyberte galériu</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Posielam</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>Závažnosť</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>Podiel</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Kód zdieľania</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>Zdieľať odkaz skopírovaný do schránky</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Zobraziť pokročilé nastavenia</value>

@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kodas</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>Kolekcija</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>Sukurti kolekciją</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>Žymėti visus</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>Prašome pasirinkti galeriją</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Siunčiama</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>Sunkumas</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>Dalys</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Akcijų kodas</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>Name</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Rodyti sudėtingesnius nustatymus</value>

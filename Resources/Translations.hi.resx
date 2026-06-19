@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>कोड</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>संग्रह</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>संग्रह बनाएँ</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>सभी का चयन करें</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>कृपया गैलरी का चयन करें</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>भेजना</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>गंभीरता</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>शेयर</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>शेयर कोड</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>शेयर लिंक क्लिपबोर्ड से कॉपी</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>उन्नत सेटिंग दिखाएं</value>

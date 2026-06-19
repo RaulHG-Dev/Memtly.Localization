@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>المدونة</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>التحصيل</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>مجموعة الإبداع</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>بيع</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>الرجاء اختيار معرض</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>إرسال</value>
   </data>
@@ -2124,6 +2130,9 @@
   </data>
   <data name="Severity" xml:space="preserve">
     <value>الشدة</value>
+  </data>
+  <data name="Share" xml:space="preserve">
+    <value>Share</value>
   </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Share Code</value>

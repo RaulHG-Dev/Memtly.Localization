@@ -436,6 +436,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kodo</value>
   </data>
+  <data name="Collection" xml:space="preserve">
+    <value>Kolekto</value>
+  </data>
   <data name="Collection_Create" xml:space="preserve">
     <value>Krei Kolekton</value>
   </data>
@@ -1480,6 +1483,9 @@
   <data name="Select_All" xml:space="preserve">
     <value>Elektu ĉiujn</value>
   </data>
+  <data name="Select_Gallery" xml:space="preserve">
+    <value>Bonvolu elekti galerion</value>
+  </data>
   <data name="Sending" xml:space="preserve">
     <value>Sendu</value>
   </data>
@@ -2125,8 +2131,14 @@
   <data name="Severity" xml:space="preserve">
     <value>Severeco</value>
   </data>
+  <data name="Share" xml:space="preserve">
+    <value>Dividi</value>
+  </data>
   <data name="Share_Code" xml:space="preserve">
     <value>Share Code</value>
+  </data>
+  <data name="Share_Link_Copied" xml:space="preserve">
+    <value>Dividi ligon kopiitan al tordtabulo</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Montri Advanced Settings</value>
