@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Sawi sa pagkuha ng listahan ng gallery</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>Sawi sa pagkuha ng listahan ng mga gumagamit</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Sawi sa pag-angkat ng datos</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Pumili ng galerya</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Pumili ng user</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Larawan</value>

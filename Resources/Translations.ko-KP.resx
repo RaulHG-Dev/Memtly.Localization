@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>본문 바로가기</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>사용자 목록을 얻기 위해 실패</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>데이터를 가져올 실패</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>본문 바로가기</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>자주 묻는 질문</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>포트레이트(Portrait)</value>

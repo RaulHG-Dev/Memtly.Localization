@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Não consegui a lista da galeria</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>Não consegui a lista de usuários</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Falhados em importar dados</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Por favor, selecione uma galeria</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Por favor, selecione um usuário</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Retrato</value>

@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Galeri listesini almak için başarısız oldu</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>Kullanıcı listesini almak için başarısız oldu</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Verileri ithal etmek için başarısız oldu</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Lütfen bir galeri seçin</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Lütfen bir kullanıcı seçin</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portre</value>

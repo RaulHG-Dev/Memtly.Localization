@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Không thể lấy danh sách phòng trưng bày</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>Lỗi lấy danh sách người dùng</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Lỗi nhập dữ liệu</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Hãy chọn nơi trưng bày</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Hãy chọn một người dùng</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Thẳng đứng</value>

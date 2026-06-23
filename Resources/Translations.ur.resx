@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>گیلری فہرست حاصل کرنے میں ناکامی</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>صارف فہرست حاصل کرنے میں ناکامی</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>درآمد کرنے میں ناکامی</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>براہ کرم گیلری منتخب کريں</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>برائے مہربانی صارف منتخب کریں</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>پرنٹ</value>

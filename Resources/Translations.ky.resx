@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Галерея тизмесин ала албай калды</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>Колдонуучунун тизмесин алуу мүмкүн эмес</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Импорттолбогон маалыматтар</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Сураныч, галереяны тандаңыз</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Сураныч, колдонуучуну тандаңыз</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Портреттик портрет</value>

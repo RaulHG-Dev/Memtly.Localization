@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>获取画廊列表失败</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>获取用户列表失败</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>导入数据失败</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>请选择一个相册</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>请选择一个用户</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>外观</value>

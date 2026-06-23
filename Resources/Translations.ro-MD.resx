@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Eșec la obținerea listei de galerii</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>A eșuat obținerea listei de utilizatori</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Eșec la importul datelor</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Alegeți o galerie</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Alegeți un utilizator</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portret</value>

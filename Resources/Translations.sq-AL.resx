@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Marrja e listës së koleksionit dështoi</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>Marrja e listës së përdoruesve dështoi</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Importimi i të dhënave dështoi</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Zgjidhni një koleksionit</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Ju lutem zgjidhni një përdorues</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Vertikale</value>

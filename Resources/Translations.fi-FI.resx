@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Gallerialistaa ei voitu saada</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>Käyttäjäluettelon saaminen epäonnistui</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Tietoja ei voitu tuoda</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Valitse galleria</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Valitse käyttäjä</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Muotokuva</value>

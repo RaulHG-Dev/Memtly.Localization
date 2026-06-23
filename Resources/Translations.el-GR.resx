@@ -730,6 +730,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Αποτυχία λήψης λίστας συλλογής</value>
   </data>
+  <data name="Failed_Get_User_List" xml:space="preserve">
+    <value>Αποτυχία λήψης λίστας χρηστών</value>
+  </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Αποτυχία εισαγωγής δεδομένων</value>
   </data>
@@ -1269,6 +1272,9 @@
   </data>
   <data name="Please_Select_Gallery" xml:space="preserve">
     <value>Παρακαλώ επιλέξτε μια συλλογή</value>
+  </data>
+  <data name="Please_Select_User" xml:space="preserve">
+    <value>Παρακαλώ επιλέξτε έναν χρήστη</value>
   </data>
   <data name="Portrait" xml:space="preserve">
     <value>Πορτραίτο</value>
