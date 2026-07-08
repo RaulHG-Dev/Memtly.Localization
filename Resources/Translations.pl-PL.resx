@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Lub</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Właściciel</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Twoje hasło zostało zresetowane. Jeśli nie zażądałeś resetowania hasła, skontaktuj się natychmiast z administratorem.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Przypadek</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Ostatnie</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Czerwony</value>

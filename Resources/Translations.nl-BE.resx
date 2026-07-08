@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Of</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Eigenaar</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Uw wachtwoord is nu gereset. Als u geen wachtwoordreset heeft aangevraagd, neem dan onmiddellijk contact op met een beheerder.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Willekeurig</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Recent</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Rood</value>

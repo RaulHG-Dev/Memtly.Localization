@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Же</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Менчик ээси</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Сиздин сырсөзүңүз азыр кайра орнотулган. Эгерде сиз сырсөздү кайра орнотууну сурабасаңыз, анда дароо администраторго кайрылыңыз.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Кокустук</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Акыркы акыркы</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Кызыл</value>

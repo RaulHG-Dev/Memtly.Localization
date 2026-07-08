@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Eller</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Ägare</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Ditt lösenord har nu återställts. Om du inte begär en lösenordsåterställning, vänligen nå ut till en administratör omedelbart.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Random</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Nyligen</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Röd</value>

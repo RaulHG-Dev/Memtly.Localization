@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>または</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>プロフィール</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>パスワードがリセットされました。 パスワードリセットをリクエストしなかった場合は、管理者にすぐに連絡してください.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>ランダム</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>最近の投稿</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>レッド</value>

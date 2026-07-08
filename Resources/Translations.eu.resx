@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Edo</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Jabea</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Pasahitza berrezarri da. Pasahitzen berrezarpena eskatu ez baduzu, administratzailearengana jo berehala.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Ausazkoa</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Oraintsukoa</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Gorria</value>

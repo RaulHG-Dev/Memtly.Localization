@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Nebo</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Majitel</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Vaše heslo bylo resetováno. Pokud jste nepožadovali resetovat heslo, kontaktujte okamžitě správce.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Náhodné</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Nedávné</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Červená</value>

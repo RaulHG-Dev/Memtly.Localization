@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Или</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Собственик</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Паролата ти е рестартирана. Ако не сте поискали рестартиране на паролата, моля свържете се незабавно с администратор.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Случайно</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Скорошно</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Червен</value>

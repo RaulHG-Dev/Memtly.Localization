@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Or</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Pemilik</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Kata sandi Anda sekarang telah ditetapkan ulang. Jika Anda tidak meminta reset kata sandi, silakan hubungi administrator segera.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Rawak</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Terkini</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Red</value>

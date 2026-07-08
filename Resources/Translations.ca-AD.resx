@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>O</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Propietari</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>La vostra contrasenya s' ha reiniciat ara. Si no heu demanat que es reiniciï una contrasenya, si us plau, torneu a l' administrador immediatament.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Aleatori</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Recent</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Vermell</value>

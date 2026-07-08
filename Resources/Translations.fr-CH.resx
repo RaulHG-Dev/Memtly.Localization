@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Ou</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Propriétaire</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Votre mot de passe a été réinitialisé. Si vous n'avez pas demandé de réinitialiser un mot de passe, veuillez contacter immédiatement un administrateur.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Aléatoire</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Récent</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Rouge</value>

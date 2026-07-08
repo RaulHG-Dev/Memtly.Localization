@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>या</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>मालिक</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>अब आपका पासवर्ड रीसेट हो गया है। यदि आप पासवर्ड रीसेट करने का अनुरोध नहीं करते हैं तो कृपया तुरंत एक प्रशासक तक पहुंचें।.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>यादृच्छिक</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>हाल का</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>लाल</value>

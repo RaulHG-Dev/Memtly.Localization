@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Ou</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Dono</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Sua senha foi agora redefinida. Se você não solicitou uma redefinição de senha, por favor, acesse um administrador imediatamente.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Random</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Recente</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Vermelho</value>

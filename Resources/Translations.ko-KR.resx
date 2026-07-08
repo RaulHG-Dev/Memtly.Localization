@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>또는</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>비밀번호가 재설정되었습니다. 비밀번호 재설정을 요청하지 않은 경우 즉시 관리자에 도달하십시오.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>한국어</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>이름 *</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>이름 *</value>

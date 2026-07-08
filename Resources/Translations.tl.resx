@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>O</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>May - ari</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Ang inyong kontrasenyas ay binago na ngayon. Kung hindi ka humiling ng isang password restoran, pakisuyong makipag - alam agad sa isang administrador.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Random</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Kamakailan</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Pula</value>

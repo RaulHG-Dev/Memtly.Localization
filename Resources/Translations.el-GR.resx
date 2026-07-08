@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Ή</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Ιδιοκτήτης</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Ο κωδικός σας έχει πλέον επαναρυθμιστεί. Αν δεν ζητήσατε μια επαναφορά κωδικού πρόσβασης παρακαλώ επικοινωνήστε αμέσως με έναν διαχειριστή.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Τυχαίο</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Πρόσφατο</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Κόκκινο</value>

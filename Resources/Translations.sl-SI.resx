@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Ali</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Lastnik</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Vaše geslo je bilo ponastavljeno. Če niste zahtevali ponastavitve gesla, se takoj obrnite na skrbnika.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Naključno</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Nedavno</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Rdeča</value>

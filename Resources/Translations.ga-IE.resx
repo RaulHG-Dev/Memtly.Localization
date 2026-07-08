@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Nó</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Amharc ar gach eolas</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Tá do phasfhocal a athshocrú anois. Murar iarr tú athshocrú phasfhocal le do thoil teacht amach chuig riarthóir láithreach.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Randamach</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Le déanaí</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Cineál gas: in airde</value>

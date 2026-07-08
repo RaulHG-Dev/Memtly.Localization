@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Aŭ</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Posedanto</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Via pasvorton nun estis remetita. Se vi ne petis pasvorton, bonvolu atingi administranton tuj.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Akcidento</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Lastatempaj</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Ruĝa</value>

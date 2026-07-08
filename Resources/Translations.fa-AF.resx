@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>یا</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>مالک</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>رمز عبور شما در حال حاضر دوباره تنظیم شده است. اگر درخواست تنظیم مجدد رمز عبور را نکردید، بلافاصله به یک مدیر مراجعه کنید.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>تصادفی</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>اخیر</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>قرمز سرخ</value>

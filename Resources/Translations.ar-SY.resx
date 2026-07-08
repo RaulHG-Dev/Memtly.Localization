@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>أو</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>المالك</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>كلمة السر الخاصة بك قد أعيدت الآن. إذا لم تطلب إعادة صياغة كلمة السر يرجى الاتصال بمدير على الفور.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>الرشوة</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>حديثة</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>أحمر</value>

@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Оригінал</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Власник</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Ваш пароль тепер було скидання. Якщо ви не замовляєте пароль, будь ласка, зв'яжіться з адміністратором негайно.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Випадковий</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Останні новини</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Червоний</value>

@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>O</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Propietario</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Su contraseña ahora ha sido restablecida. Si no solicitó un reinicio de contraseña, por favor contacte a un administrador inmediatamente.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Aleatorio</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Recientes</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Rojo</value>

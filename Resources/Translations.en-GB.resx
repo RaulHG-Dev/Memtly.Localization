@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Or</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Owner</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Your password has now been reset. If you did not request a password reset please reach out to an administrator immediately.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Random</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Recent</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Red</value>

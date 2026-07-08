@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Ya da</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Sahibi</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Parolanız şimdi sıfırlandı. Bir parola sıfırlama talep etmediyseniz lütfen hemen bir yöneticiye ulaşın.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Random</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Son Güncelleme Tarihi</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Red</value>

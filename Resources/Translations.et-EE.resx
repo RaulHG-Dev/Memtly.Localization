@@ -1213,6 +1213,9 @@
   <data name="Or" xml:space="preserve">
     <value>Või</value>
   </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Omanik</value>
+  </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Sinu parool on nüüd lähtestatud. Kui te parooli lähtestamist ei taotlenud, pöörduge kohe administraatori poole.</value>
   </data>
@@ -1308,6 +1311,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Juhuslik</value>
+  </data>
+  <data name="Recent" xml:space="preserve">
+    <value>Hiljutised</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Punane</value>
