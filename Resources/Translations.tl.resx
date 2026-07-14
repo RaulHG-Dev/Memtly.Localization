@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Larawang Icon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Ilang bagay ang dapat ipakita sa seksiyon ng galerya kamakailan?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Limitado ang Kasaysayan ng Gallery</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Pinahihintulutan ba ang mga panauhin na magtala ng mga kuwenta?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Ibahagi ang link na kinopya sa clipboard</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Ibahagi sa Iyo</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Ipakita ang Patiunang Pagtatakda</value>

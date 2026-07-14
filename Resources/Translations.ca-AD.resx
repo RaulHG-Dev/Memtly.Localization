@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Icona de perfil</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Quants elements hauran de mostrar a la secció de la galeria recent?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Límit d' historial de Gallery</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Els convidats estan autoritzats a registrar els comptes?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>S' ha copiat l' enllaç de compartició al porta- retalls</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Compartit amb vós</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Mostra els arranjaments avançats</value>

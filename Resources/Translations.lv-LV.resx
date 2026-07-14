@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profila ikona</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Cik preču būtu jārāda pēdējā galerijas sadaļā?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Galerijas vēstures ierobežojums</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Vai viesiem ir atļauts reģistrēt kontus?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Kopīgot saiti uz starpliktuvi</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Kopīgi ar jums</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Rādīt paplašinātos iestatījumus</value>

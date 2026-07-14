@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>פרופיל אייקון</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>כמה פריטים יש להציג בגלריית האחרונה?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>גלריה History Limit</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>האם האורחים מורשים לרשום חשבונות?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>שתף קישור שהועתק ל-Creboard</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>משותף איתך</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>הצג הגדרות מתקדמות</value>

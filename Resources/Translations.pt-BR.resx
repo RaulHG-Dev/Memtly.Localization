@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Ícone de perfil</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Quantos itens devem mostrar na seção recente da galeria?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Limite Histórico da Galeria</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Os hóspedes podem registrar contas?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Compartilhar link copiado para a área de transferência</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Compartilhado com você</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Mostrar configurações avançadas</value>

@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profil Icon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Hur många objekt ska visas i det senaste galleriet?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Galleri historia gräns</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Är gästerna tillåtna att registrera konton?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Dela länk kopierad till clipboard</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Delad med dig</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Visa avancerade inställningar</value>

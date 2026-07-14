@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>プロフィールのアイコン</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>最近のギャラリーのセクションでは、いくつものアイテムが表示されるのでしょうか?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>画廊の歴史制限</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>会員登録はできますか?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>クリップボードにコピーした共有リンク</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>あなたと共有</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>高度な設定を表示する</value>

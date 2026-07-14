@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value> Profile Icon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Son gallery bölməsində neçə maddələr göstərir?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Qeydiyyat</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Kateqoriyalar hesab edir?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Klipboard üçün kopyalanan link</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Sizinlə əlaqə saxlayın</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Proqramlar</value>

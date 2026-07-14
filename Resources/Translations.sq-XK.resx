@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Ikona e profilit</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Sa gjëra duhet të shfaqen në seksionin e fundit të galerisë?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Milery History limit</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>A lejohen të ftuarit të regjistrojnë llogaritë?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Shpërnda lidhjen e kopjuar tek shënimet</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Shpërndahuni me ju</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Shfaq rregullimet e detajuara</value>

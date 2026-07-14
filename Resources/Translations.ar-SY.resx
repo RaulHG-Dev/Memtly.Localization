@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profile Icon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>كم عدد المواد التي يجب أن تظهر في قسم المعرض الحديث؟?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Gallery History Limit</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>هل يسمح للضيوف بتسجيل الحسابات؟?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>وصلة التقاسم تم نسخها من لوح المشبك</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>شارك معك</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>العروض المتقدمة</value>

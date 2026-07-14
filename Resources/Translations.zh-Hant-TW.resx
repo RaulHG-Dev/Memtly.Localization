@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>配置图标</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>在相簿上要放出多少相簿?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>相簿歷史限制</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>是否允许客人注册帐户?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>分享已复制到剪贴板的連結</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>和您分享</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>顯示高级設定值</value>

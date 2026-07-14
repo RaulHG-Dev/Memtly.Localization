@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>프로필 Icon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>최근 갤러리 섹션에서 몇 항목이 표시되어야합니까?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>갤러리 역사 한계</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>계정을 등록할 수 있습니까?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>클립보드에 복사된 링크</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>공유하기</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>고급 설정 표시</value>

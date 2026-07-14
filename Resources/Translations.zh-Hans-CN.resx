@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>配置图标</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>最近展厅部分应该显示多少项?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>图片库历史限制</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>是否允许客人注册帐户?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>共享复制到剪贴板的链接</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>与您共享</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>显示高级设置</value>

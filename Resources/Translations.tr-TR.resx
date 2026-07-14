@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profil Icon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Son galeri bölümünde kaç öğe göstermelidir?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Gallery History Limit</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Konuklar hesap kaydetmelerine izin verilir mi?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Share link kopyalandı panboard</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Seninle Paylaşmak</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Show Advanced Settings Ayarları</value>

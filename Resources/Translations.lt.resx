@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profilio ženkliukas</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Kiek elementų turėtų rodyti neseniai galerijoje?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Galerijos istorijos riba</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Jus gali užregistruoti svečiai?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Name</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Pasidalinti su jumis</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Rodyti sudėtingesnius nustatymus</value>

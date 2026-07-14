@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Próifíl 1</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Cé mhéad míreanna ba chóir a thaispeáint sa rannóg gailearaí le déanaí?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Teorainn an tSuímh</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>An bhfuil cead ag aíonna cuntais a chlárú?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Comhroinn nasc a chóipeáil chuig clipboard</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Roinnte Le tú</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Taispeáin Socruithe Casta</value>

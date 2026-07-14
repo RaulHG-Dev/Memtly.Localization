@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Perfil Icon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Cantos elementos hai que presentar na sección de galerías?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Galería Historia límite</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Está permitido o rexistro de contas?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Compartir ligazón copiado para o portapapeis</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Compartindo contigo</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Mostrar configuración avanzada</value>

@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>প্রোফাইল আইকন</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>সাম্প্রতিক গ্যালারি বিভাগে কয়টা বস্তু দেখানো উচিত?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>গ্যালারির ইতিহাস সীমা</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>অতিথিরা কি অ্যাকাউন্ট নিবন্ধন করতে পারবে?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>ক্লিপবোর্ড শেয়ার করুন</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>আপনার সাথে শেয়ার করা</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>উন্নত সেটিংসমূহ প্রদর্শন করা হবে</value>

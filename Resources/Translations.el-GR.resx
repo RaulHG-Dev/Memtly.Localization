@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Εικονίδιο προφίλ</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Πόσα αντικείμενα πρέπει να εμφανιστούν στο πρόσφατο τμήμα της γκαλερί?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Όριο Ιστορίας Γκαλερί</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Επιτρέπεται στους επισκέπτες να καταχωρούν λογαριασμούς?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Μοιραστείτε το σύνδεσμο που αντιγράφηκε στο πρόχειρο</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Μοιραστήκαμε μαζί σας</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Εμφάνιση προχωρημένων ρυθμίσεων</value>

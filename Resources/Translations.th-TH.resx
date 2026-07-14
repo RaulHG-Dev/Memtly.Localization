@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>ภาพไอคอนโพรไฟล์</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>มีกี่รายการที่ควรจะแสดงในส่วนแกลเลอรี่ล่าสุด?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>จํากัดประวัติของแกลเลอรี</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>แขกได้รับอนุญาตให้ลงทะเบียนบัญชี?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>คัดลอกลิงก์ไปยังคลิปบอร์ด</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>มี ส่วน ร่วม กับ คุณ</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>แสดงการตั้งค่าขั้นสูง</value>

@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Профиль Icon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Акыркы галерея бөлүмүндө канча буюм көрсөтүлүшү керек?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Галериянын тарыхынын чеги</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Конокторго эсептерди каттоого уруксат берилеби?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Клипбордго көчүрүлгөн бөлүшүү шилтемеси</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Сен менен бөлүшүү</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Өнүккөн орнотууларды көрсөтүңүз</value>

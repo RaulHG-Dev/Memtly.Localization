@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Pictogramă profil</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Câte obiecte ar trebui să apară în recenta secţiune galerie?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Limita istoriei galeriei</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Oaspeții au voie să înregistreze conturi?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Partajează linkul copiat în clipboard</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Împărţiţi cu voi</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Arată configurări avansate</value>

@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profiili ikoon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Kui palju peaks viimases galerii rubriigis kajastuma?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Galerii ajaloo piirang</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Kas külalistel on lubatud kontosid registreerida?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Lõikepuhvrisse kopeeritud link</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Jagasid sinuga</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Muude seadistuste näitamine</value>

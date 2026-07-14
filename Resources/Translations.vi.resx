@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Biểu tượng hồ sơ</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Có bao nhiêu đồ vật được trưng bày trong khu vực triển lãm gần đây?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Hạn chế lịch sử nơi trưng bày</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Khách có được phép đăng ký tài khoản không?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Liên kết chia sẻ được sao chép vào bảng nháp</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Chia sẻ với bạn</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Hiện thiết lập cấp cao</value>

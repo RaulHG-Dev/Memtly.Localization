@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Ikon Profil</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Berapa banyak item yang harus ditunjukkan di galeri baru-baru ini?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Had Sejarah Galeri Galeri Galeri</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Tamu tamu diizinkan mendaftarkan rekening?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Kongsi teks yang disalin ke papan keratan</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Kongsi dengan Anda</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Tetapan Lanjutan</value>

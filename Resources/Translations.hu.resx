@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profil ikon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Hány dolgot kell a galériában látni?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Galéria Történelmi korlát</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>A vendégek regisztrálhatnak számlát?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>A vágólapra lemásolt link megosztása</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Megosztottam veled</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Speciális beállítások megjelenítése</value>

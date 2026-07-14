@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profielpictogram</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Hoeveel items moet worden getoond in de recente galerij sectie?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Grens voor galeriegeschiedenis</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Mogen gasten accounts registreren?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Link naar klembord delen</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Gedeeld met jou</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Geavanceerde instellingen tonen</value>

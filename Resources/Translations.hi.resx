@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>प्रोफ़ाइल आइकन</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>हाल के गैलरी अनुभाग में कितने आइटम दिखाना चाहिए?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>गैलरी इतिहास सीमा</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>क्या मेहमानों को खातों को पंजीकृत करने की अनुमति है?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>शेयर लिंक क्लिपबोर्ड से कॉपी</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>आप के साथ साझा</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>उन्नत सेटिंग दिखाएं</value>

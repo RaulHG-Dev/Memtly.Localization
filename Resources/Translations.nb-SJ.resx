@@ -1543,6 +1543,12 @@
   <data name="Settings_Account_Profile_Icon_Label" xml:space="preserve">
     <value>Profilikon</value>
   </data>
+  <data name="Settings_Account_Recent_History_Limit_Help" xml:space="preserve">
+    <value>Hvor mange elementer bør vises i den nylige galleridelen?</value>
+  </data>
+  <data name="Settings_Account_Recent_History_Limit_Label" xml:space="preserve">
+    <value>Gallerihistorisk grense</value>
+  </data>
   <data name="Settings_Account_Registration_Enabled_Help" xml:space="preserve">
     <value>Har gjester lov til å registrere kontoer?</value>
   </data>
@@ -2175,6 +2181,9 @@
   </data>
   <data name="Share_Link_Copied" xml:space="preserve">
     <value>Del link kopiert til utklippstavle</value>
+  </data>
+  <data name="Shared_With_You" xml:space="preserve">
+    <value>Delt med deg</value>
   </data>
   <data name="Show_Advanced_Settings" xml:space="preserve">
     <value>Vis avanserte innstillinger</value>
