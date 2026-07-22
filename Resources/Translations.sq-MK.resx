@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Jo</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Nuk u gjet asnjë përdorues në përputhje me termin</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Asnjë</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Kjo galeri nuk është ndarë me askënd ende</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Prova e njoftimit</value>

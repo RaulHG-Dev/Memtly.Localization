@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Walang mga pakete na naghihintay ng review</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Walang mga gumagamit ang nasumpungang katugma ng termino</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Wala</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Ang galeryang ito ay hindi pa ibinabahagi kaninuman</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Pagsubok sa Pagbibigay - Pansin</value>

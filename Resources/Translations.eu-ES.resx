@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Ez dago igoerarik berrikuspenaren zain</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Ez da erabiltzailerik aurkitu terminoarekin bat datorrenik</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Bat ere ez</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Galeria hau ez da inorekin partekatu oraindik</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Jakinarazpen-proba</value>

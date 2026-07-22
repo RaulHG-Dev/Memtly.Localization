@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Tidak ada upload review tertunda</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Tidak ada pengguna ditemukan cocok istilah</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Amerika/None</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Galeri ini belum dibagi dengan siapa pun belum</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Ujian Pemberitahuan Nobita</value>

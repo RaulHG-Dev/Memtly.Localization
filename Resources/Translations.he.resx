@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>אין העלאת ביקורת</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>אף משתמש לא נמצא תואם את המונח</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>אף אחד לא</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>הגלריה הזאת עדיין לא משותפת עם אף אחד</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>מבחן זיהוי</value>

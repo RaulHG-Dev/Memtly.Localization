@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>কোনো আপলোডের অনুরোধ সম্পূর্ণ হয়নি</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>কোন ব্যবহারকারী খুঁজে পাওয়া যায়নি</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>শূণ্য</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>এই গ্যালারিটি বর্তমানে উপস্থিত নেই</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>বিজ্ঞপ্তির পরীক্ষা</value>

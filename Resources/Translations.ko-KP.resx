@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>리뷰 없음</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>사용자는 용어를 일치하지 않았습니다</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>이름 *</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>이 갤러리는 아직 누구와 공유되지 않습니다</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>공지사항</value>

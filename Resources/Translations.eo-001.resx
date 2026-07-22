@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Ne alŝutas ne klarigitan revizion</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Neniuj uzantoj estis trovitaj egalan la esprimon</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Neniu</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Tiu galerio ne estas partumita kun iu ajn ankoraŭ</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Notification Test</value>

@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Žádné nahrávání do přezkumu</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Nebyly nalezeny žádné uživatele odpovídající termínu</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Žádné</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Tato galerie ještě není s nikým sdílena</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Oznamovací zkouška</value>

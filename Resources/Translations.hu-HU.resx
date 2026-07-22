@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Nincs feltöltés függőben felülvizsgálat</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Nem találtak olyan felhasználót, aki megfelelt volna a</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Nincs</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>A galériát még nem osztották meg senkivel</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Bejelentési vizsgálat</value>

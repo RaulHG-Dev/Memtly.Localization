@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>No upload pending огляд</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Немає користувачів, які були знайдені з урахуванням терміну</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Ні</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Ця галерея не є спільною з будь-яким</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Тест повідомлення</value>

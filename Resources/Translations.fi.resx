@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Ei latauksia ennen uudelleentarkastelua</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Termiä vastaavaa käyttäjää ei löytynyt</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Ei ole</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Tämä galleria ei ole vielä jaettu kenellekään</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Ilmoitustesti</value>

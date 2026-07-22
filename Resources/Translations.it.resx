@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Nessuna revisione in sospeso</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Nessun utente trovato corrispondente al termine</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Nessuno</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Questa galleria non è ancora condivisa con nessuno</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Test di notifica</value>

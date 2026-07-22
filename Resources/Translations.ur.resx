@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>کوئی اپنگ جائزہ نہیں</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>کوئی صارف اس اصطلاح کو آپس میں ملا نہیں پایا گیا</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>کچھ نہیں</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>یہ گیلری ابھی تک کسی کے ساتھ مشترک نہیں ہے۔</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>جگہ</value>

@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>ไม่มีการอัปโหลดที่จะตรวจสอบ</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>ไม่พบผู้ใช้ที่ตรงกับเงื่อนไข</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>ไม่มี</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>แกลเลอรีนี้ยังไม่ได้ใช้ร่วมกับใคร</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>ทดสอบการแจ้งเตือน</value>

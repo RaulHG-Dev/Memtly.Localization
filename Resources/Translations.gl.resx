@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Non chegou a lista de galerías</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Non se conseguiu a lista de accións</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Non se conseguiu a lista de usuarios</value>
   </data>
@@ -1210,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Sen subidas pendentes de revisión</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Non se atoparon usuarios que coincidan co termo</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Ningunha</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Esta galería aínda non está compartida con ninguén</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Notificación Test</value>

@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Brak przesłań oczekujących na przegląd</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Nie znaleziono żadnych użytkowników odpowiadających terminowi</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Brak</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Ta galeria nie jest jeszcze podzielona z nikim</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Badanie zgłoszenia</value>

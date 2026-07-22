@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Χωρίς αποστολή εν αναμονή αναθεώρησης</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Δεν βρέθηκαν χρήστες που να ταιριάζουν με τον όρο</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Καμία</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Αυτή η γκαλερί δεν έχει μοιραστεί με κανέναν ακόμα</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Δοκιμή κοινοποίησης</value>

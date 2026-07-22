@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Tidak ada uploads yang tertunda ulasan</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Tidak ada pengguna yang ditemukan yang cocok dengan istilah</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Nihil</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Galeri ini belum dibagi dengan siapa pun</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Tes Pemberitahuan</value>

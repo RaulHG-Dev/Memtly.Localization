@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>在审查前没有上传</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>没有找到匹配此术语的用户</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>无</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>这个画廊还没有和任何人分享</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>通知测试</value>

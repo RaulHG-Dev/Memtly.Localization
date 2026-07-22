@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Không có bản tải lên đang được xem xét</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Không tìm thấy người dùng nào tương ứng với thuật ngữ</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Không có</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Phòng trưng bày này chưa được chia sẻ với bất cứ ai</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Comment</value>

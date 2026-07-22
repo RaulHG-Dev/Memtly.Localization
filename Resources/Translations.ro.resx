@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Nicio încărcare în curs de revizuire</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Nu s-a găsit niciun utilizator care să corespundă termenului</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Niciuna</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Această galerie nu este împărtășit cu nimeni încă</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Test de notificare</value>

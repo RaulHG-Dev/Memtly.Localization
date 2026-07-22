@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>कोई अपलोड लंबित समीक्षा</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>कोई उपयोगकर्ता शब्द से मेल नहीं मिला</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>कोई नहीं</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>इस गैलरी को अभी तक किसी के साथ साझा नहीं किया गया है</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>अधिसूचना टेस्ट</value>

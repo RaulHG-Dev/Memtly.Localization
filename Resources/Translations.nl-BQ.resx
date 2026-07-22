@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Geen uploads in behandeling</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Er werden geen gebruikers gevonden die overeenkomen met de term</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Geen</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Deze galerij wordt nog met niemand gedeeld</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Kennisgevingstest</value>

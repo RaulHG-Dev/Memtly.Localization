@@ -1213,8 +1213,14 @@
   <data name="No_Pending_Uploads" xml:space="preserve">
     <value>Níl aon uaslódáil ar feitheamh athbhreithniú</value>
   </data>
+  <data name="No_Users_Found_Matching" xml:space="preserve">
+    <value>Ní bhfuarthas aon úsáideoirí a mheaitseáil leis an téarma</value>
+  </data>
   <data name="None" xml:space="preserve">
     <value>Gan a bheith ráite</value>
+  </data>
+  <data name="Not_Shared_Yet" xml:space="preserve">
+    <value>Níl an gailearaí seo roinnte le duine ar bith fós</value>
   </data>
   <data name="Notification_Test" xml:space="preserve">
     <value>Tástáil Fógraí</value>
