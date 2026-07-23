@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>Nó</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>An bhfuil cuntas agat</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>Amharc ar gach eolas</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>Randamach</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>Le déanaí</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>Cuairt le déanaí</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Cineál gas: in airde</value>

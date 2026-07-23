@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>Vai</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>Pieder jums</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>Īpašnieks</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>Nejaušs</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>Nesens</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>Nesen apmeklēts</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Sarkans</value>

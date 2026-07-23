@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>Edo</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>Zeurea</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>Jabea</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>Ausazkoa</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>Oraintsukoa</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>Duela gutxi bisitatua</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Gorria</value>

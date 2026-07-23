@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>Eller</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>Eiet av deg</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>Eier</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>Tilfeldig</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>Nylig</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>Nylig besøkt</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Rød</value>

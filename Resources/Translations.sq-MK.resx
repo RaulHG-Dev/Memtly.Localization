@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>Ose</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>Të zotëron</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>Pronari</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>I zakonshëm</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>E fundit</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>Vizitat e fundit</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>I kuq</value>

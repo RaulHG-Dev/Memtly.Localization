@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>یا</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>خود سے پوچھیں :</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>مالک</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>رنگ</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>حال</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>حالیہ معلومات</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>سرخ</value>

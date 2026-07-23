@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>Sau</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>Deţinută de tine</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>Proprietar</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>Aleator</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>Recent</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>Vizitat recent</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>Roșu</value>

@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>或者说</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>由你拥有</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>拥有者</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>随机</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>近期</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>最近访问</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>红色</value>

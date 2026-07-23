@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>Оригінал</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>Ви</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>Власник</value>
   </data>
@@ -1336,7 +1339,7 @@
   <data name="Random" xml:space="preserve">
     <value>Випадковий</value>
   </data>
-  <data name="Recent" xml:space="preserve">
+  <data name="Recently_Visited" xml:space="preserve">
     <value>Останні новини</value>
   </data>
   <data name="Red" xml:space="preserve">

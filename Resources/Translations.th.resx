@@ -1237,6 +1237,9 @@
   <data name="Or" xml:space="preserve">
     <value>หรือ</value>
   </data>
+  <data name="Owned_By_You" xml:space="preserve">
+    <value>นายเป็นเจ้าของ</value>
+  </data>
   <data name="Owner" xml:space="preserve">
     <value>เจ้าของ</value>
   </data>
@@ -1336,8 +1339,8 @@
   <data name="Random" xml:space="preserve">
     <value>สุ่ม</value>
   </data>
-  <data name="Recent" xml:space="preserve">
-    <value>ล่าสุด</value>
+  <data name="Recently_Visited" xml:space="preserve">
+    <value>ที่ไปก่อนหน้านี้</value>
   </data>
   <data name="Red" xml:space="preserve">
     <value>แดง</value>
