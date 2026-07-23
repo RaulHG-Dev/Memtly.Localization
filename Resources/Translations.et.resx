@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>Kasutajanimi on juba olemas. Palun vali uus</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>Määratud salasõna on kergesti äraarvatav. Palun vali turvalisem parool.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>Tagasi lükata</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Hoiatus</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>Määratud salasõna on kergesti äraarvatav. Palun vali turvalisem parool.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>Pühkige</value>

@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>既に存在するユーザー名。 新規登録をしてください</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>指定したパスワードは簡単に推測できます。 より安全なパスワードを選択してください.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>リジェクト</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>インフォメーション</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>指定したパスワードは簡単に推測できます。 より安全なパスワードを選択してください.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>ウィップ</value>

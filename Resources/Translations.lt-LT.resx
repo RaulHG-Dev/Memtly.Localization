@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>Vartotojo vardas jau yra. Prašome pasirinkti naują</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>Nurodytą slaptažodį lengva atspėti. Prašome pasirinkti saugesnį slaptažodį.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>Pašalinti</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Įspėjimas</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>Nurodytą slaptažodį lengva atspėti. Prašome pasirinkti saugesnį slaptažodį.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>Šalinti</value>

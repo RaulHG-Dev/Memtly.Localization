@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>Nazwa użytkownika już istnieje. Proszę wybrać nowy</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>Podane hasło jest łatwo odgadnąć. Proszę wybrać bardziej bezpieczne hasło.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>Odrzuć</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Ostrzeżenie</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>Podane hasło jest łatwo odgadnąć. Proszę wybrać bardziej bezpieczne hasło.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>Wytrzyj</value>

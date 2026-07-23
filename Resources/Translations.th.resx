@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>มีชื่อผู้ใช้อยู่แล้ว โปรดเลือกอันใหม่</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>รหัสผ่านที่ระบุจะเดาได้ง่ายๆ โปรดเลือกรหัสผ่านที่ปลอดภัย.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>ปฏิเสธ</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>คําเตือน</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>รหัสผ่านที่ระบุจะเดาได้ง่ายๆ โปรดเลือกรหัสผ่านที่ปลอดภัย.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>กวาด</value>

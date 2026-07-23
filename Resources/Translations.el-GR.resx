@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>Το όνομα χρήστη υπάρχει ήδη. Παρακαλώ επιλέξτε ένα νέο</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>Ο κωδικός πρόσβασης είναι εύκολα μαντεμένος. Παρακαλώ επιλέξτε έναν πιο ασφαλή κωδικό πρόσβασης.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>Απόρριψη</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Προειδοποίηση</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>Ο κωδικός πρόσβασης είναι εύκολα μαντεμένος. Παρακαλώ επιλέξτε έναν πιο ασφαλή κωδικό πρόσβασης.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>Σκουπίστε</value>

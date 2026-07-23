@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>Lietotājvārds jau eksistē. Lūdzu, izvēlieties jaunu</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>Norādītā parole ir viegli uzminēt. Lūdzu izvēlieties drošāku paroli.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>Noraidīt</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Brīdinājums</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>Norādītā parole ir viegli uzminēt. Lūdzu izvēlieties drošāku paroli.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>Noslaucīt</value>

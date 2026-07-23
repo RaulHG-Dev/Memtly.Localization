@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>A felhasználói név már létezik. Válasszon egy újat</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>A megadott jelszó könnyen kitalálható. Válasszon ki egy biztonságosabb jelszót.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>Elutasítás</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Figyelem</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>A megadott jelszó könnyen kitalálható. Válasszon ki egy biztonságosabb jelszót.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>Törlő</value>

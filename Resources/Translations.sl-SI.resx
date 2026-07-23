@@ -1438,9 +1438,6 @@
   <data name="Registration_Username_Taken" xml:space="preserve">
     <value>Uporabniško ime že obstaja. Prosim izberite novega</value>
   </data>
-  <data name="Registration_Weak_Password" xml:space="preserve">
-    <value>Navedeno geslo je enostavno uganiti. Prosim izberite varnejše geslo.</value>
-  </data>
   <data name="Reject" xml:space="preserve">
     <value>Zavrni</value>
   </data>
@@ -2511,6 +2508,9 @@
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Opozorilo</value>
+  </data>
+  <data name="Weak_Password" xml:space="preserve">
+    <value>Navedeno geslo je enostavno uganiti. Prosim izberite varnejše geslo.</value>
   </data>
   <data name="Wipe" xml:space="preserve">
     <value>Obriši</value>
