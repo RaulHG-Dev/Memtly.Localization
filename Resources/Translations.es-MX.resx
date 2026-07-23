@@ -437,7 +437,7 @@
     <value>Haga clic aquí para seleccionar archivos para subir</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Cerca</value>
+    <value>Cerrar</value>
   </data>
   <data name="Code" xml:space="preserve">
     <value>Código</value>
@@ -455,7 +455,7 @@
     <value>Colección creada con éxito</value>
   </data>
   <data name="Collection_Delete" xml:space="preserve">
-    <value>Delete Collection</value>
+    <value>Eliminar colección</value>
   </data>
   <data name="Collection_Delete_Failed" xml:space="preserve">
     <value>Failed to delete collection</value>
